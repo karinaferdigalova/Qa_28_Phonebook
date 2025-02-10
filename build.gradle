@@ -9,11 +9,12 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
-    implementation 'org.testng:testng:7.5.1'
-    implementation 'org.seleniumhq.selenium:selenium-java:4.16.1'
 
-}
+    dependencies {
+        implementation 'org.testng:testng:7.5.1'
+        implementation 'org.seleniumhq.selenium:selenium-java:4.16.1'
+
+    }
 
 test {
     useTestNG()
