@@ -57,7 +57,7 @@ public class LoginTests extends TestBase {
     @Test
     public void loginUnregisteredUser(){
         app.getHelperUser().openLoginRegistrationForm();
-        app.getHelperUser().fillLoginRegistrationForm("kjgjc9@mail.ru","Rffff29$");
+        app.getHelperUser().fillLoginRegistrationForm("maaa@gmail.com","Maa123456$");
         app.getHelperUser().sumitLogin();
         Assert.assertTrue(app.getHelperUser().isAlertPresent("Wrong email or password"));
 
