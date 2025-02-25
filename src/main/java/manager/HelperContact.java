@@ -4,7 +4,10 @@ import models.Contact;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
 import java.util.List;
 
 public class HelperContact extends HelperBase{
@@ -49,5 +52,27 @@ public class HelperContact extends HelperBase{
 
     public boolean isAddPageStillDisplayed() {
         return isElementPresent(By.cssSelector("a.active[href='/add']"));
+    }
+
+    public void removeFirstContact() {
+
+        WebElement firstContact = wd.findElement
+                (By.xpath("(//div[@class='contact-item_card__2SOIM'])[1]"));
+        firstContact.click();
+        WebDriverWait wait = new WebDriverWait(wd, Duration.ofSeconds(10));
+        WebElement removeButton = wait.until(ExpectedConditions.elementToBeClickable
+                (By.xpath("//button[normalize-space()='Remove']")));
+        removeButton.click();
+    }
+//   
+
+    public int getContactCount() {
+        WebElement contactsContainer =
+                wd.findElement(By.xpath("//div[@class='contact-page_contactspage__2TPwe']"));
+
+        List<WebElement> contacts = contactsContainer.findElements
+                (By.xpath(".//div[@class='contact-card']"));
+
+        return contacts.size();
     }
 }
