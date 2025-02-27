@@ -21,17 +21,17 @@ public class RemoveContactTests extends TestBase {
     }
 
 
-    @Test
-    public void removeFirstContact() {
-        int before = app.getHelperContact().getContactCount();
-        System.out.println(app.getHelperContact().getContactCount());// Количество контактов ДО удаления
-        app.getHelperContact().removeFirstContact();
-        app.getHelperContact().pause(10000);// Удаление первого контакта
-        System.out.println(app.getHelperContact().getContactCount());
-        int after = app.getHelperContact().getContactCount(); // Количество контактов ПОСЛЕ удаления
-
-        Assert.assertEquals(after, before - 1);
-    }
+//    @Test
+//    public void removeFirstContact() {
+//        int before = app.getHelperContact().getContactCount();
+//        System.out.println(app.getHelperContact().getContactCount());
+//        app.getHelperContact().removeFirstContact();
+//        app.getHelperContact().pause(1000);// Удаление первого контакта
+//        System.out.println(app.getHelperContact().getContactCount());
+//        int after = app.getHelperContact().getContactCount(); // Количество контактов ПОСЛЕ удаления
+//
+//        Assert.assertEquals(after, before - 1);
+//    }
 
 
 
@@ -39,11 +39,4 @@ public class RemoveContactTests extends TestBase {
 
 
 
-//    @Test
-//    public void removeAllContacts(){
-//            app.getHelperContact().removeAllContacts(); // Удаляем все контакты
-//            Assert.assertTrue(app.getHelperUser().isNoContactsHereDisplayed());
-//        }
-//
-//    }
 

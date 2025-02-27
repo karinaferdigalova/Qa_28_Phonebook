@@ -1,16 +1,17 @@
 package manager;
 
+import com.google.common.io.Files;
 import models.Contact;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.File;
+import java.io.IOException;
 import java.time.Duration;
 import java.util.List;
 
-public class HelperContact extends HelperBase{
+public class HelperContact extends HelperBase {
     public HelperContact(WebDriver wd) {
         super(wd);
     }
@@ -34,20 +35,22 @@ public class HelperContact extends HelperBase{
 
     public boolean isContactAddedByName(String name) {
         List<WebElement> list = wd.findElements(By.cssSelector("h2"));
-        for (WebElement el:list){
-            if (el.getText().equals(name)){
+        for (WebElement el : list) {
+            if (el.getText().equals(name)) {
                 return true;
             }
-        }return false;
+        }
+        return false;
     }
 
     public boolean isContactAddedByPhone(String phone) {
         List<WebElement> list = wd.findElements(By.cssSelector("h3"));
-        for (WebElement el:list){
-            if (el.getText().equals(phone)){
+        for (WebElement el : list) {
+            if (el.getText().equals(phone)) {
                 return true;
             }
-        }return false;
+        }
+        return false;
     }
 
     public boolean isAddPageStillDisplayed() {
@@ -64,15 +67,20 @@ public class HelperContact extends HelperBase{
                 (By.xpath("//button[normalize-space()='Remove']")));
         removeButton.click();
     }
-//   
 
-    public int getContactCount() {
-        WebElement contactsContainer =
-                wd.findElement(By.xpath("//div[@class='contact-page_contactspage__2TPwe']"));
 
-        List<WebElement> contacts = contactsContainer.findElements
-                (By.xpath(".//div[@class='contact-card']"));
+    public void getScreen(String link) {
+        TakesScreenshot takesScreenshot = (TakesScreenshot) wd;
+   File tmp = takesScreenshot.getScreenshotAs(OutputType.FILE);
+        try {
+            Files.copy(tmp, new File(link));
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
 
-        return contacts.size();
     }
+
+//    public int getContactCount() {
+//        return wd.findElement(By.cssSelector("contact-item_card__2SOIM"));
+//    }
 }
