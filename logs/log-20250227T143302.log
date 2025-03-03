@@ -1,0 +1,4 @@
+14:33:04.744 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+14:33:04.757 INFO  tests.TestBase - Name of method--->removeFirstContact
+14:33:11.503 INFO  manager.HelperBase - Number of Contacts before remove --->110
+14:33:12.585 INFO  manager.HelperBase - Number of Contacts before remove --->109

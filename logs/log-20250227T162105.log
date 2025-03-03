@@ -1,0 +1,12 @@
+16:21:08.763 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+16:21:08.778 INFO  tests.TestBase - Name of method--->registrationExistsUser
+16:21:13.797 INFO  tests.TestBase - Tests run with data: --->User{email='mara@gmail.com', password='Mmar123456$'}
+16:21:15.098 INFO  tests.TestBase - Name of method--->registrationSuccess
+16:21:20.152 INFO  tests.TestBase - Tests run with data: --->User{email='don1280@gmail.com', password='Ddon123456$'}
+16:21:20.194 INFO  tests.TestBase - openRegistrationForm invoked
+16:21:20.317 INFO  tests.TestBase - fillRegistrationForm invoked
+16:21:20.333 INFO  tests.TestBase - submitLogin invoked
+16:21:21.014 INFO  tests.TestBase - Name of method--->registrationWrongEmail
+16:21:21.043 INFO  tests.TestBase - Tests run with data: --->User{email='dongmail.com', password='Ddon123456$'}
+16:21:21.749 INFO  tests.TestBase - Name of method--->registrationWrongPassword
+16:21:26.782 INFO  tests.TestBase - Tests run with data: --->User{email='don@gmail.com', password='Ddon123'}

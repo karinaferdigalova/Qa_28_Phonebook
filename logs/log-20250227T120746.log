@@ -1,0 +1,5 @@
+12:07:48.801 INFO  tests.TestBase - Name of method--->loginSuccess
+12:07:53.816 INFO  tests.TestBase - Before method finished logout
+12:07:53.818 INFO  tests.TestBase - Start test with name loginSuccess
+12:07:54.104 INFO  tests.TestBase - Test data --> email: 'karinmc9@mail.ru' & password: 'Rfhbyrf29$'
+12:07:55.019 INFO  tests.TestBase - Assert check is element button 'Sign out' present

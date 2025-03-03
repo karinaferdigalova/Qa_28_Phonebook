@@ -12,31 +12,29 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class RemoveContactTests extends TestBase {
-
     @BeforeMethod
     public void preCondition() {
         if (!app.getHelperUser().isLogged()) {
-            app.getHelperUser().login(new User().setEmail("karinmc9@mail.ru").setPassword("Rfhbyrf29$"));
+            app.getHelperUser().login(new User().withEmail("margo@gmail.com").withPassword("Mmar123456$"));
         }
+        app.getHelperContact().provideContacts();//if list of contacts <3 ==> add 3 contacts
+
     }
 
 
-//    @Test
-//    public void removeFirstContact() {
-//        int before = app.getHelperContact().getContactCount();
-//        System.out.println(app.getHelperContact().getContactCount());
-//        app.getHelperContact().removeFirstContact();
-//        app.getHelperContact().pause(1000);// Удаление первого контакта
-//        System.out.println(app.getHelperContact().getContactCount());
-//        int after = app.getHelperContact().getContactCount(); // Количество контактов ПОСЛЕ удаления
-//
-//        Assert.assertEquals(after, before - 1);
-//    }
+    @Test
+    public void removeFirstContact() {
+        Assert.assertEquals(app.getHelperContact().removeOneContact(), 1);
 
+    }
+    @Test
+    public void removeAllContacts(){
+        app.getHelperContact().removeAllContacts();
+        Assert.assertTrue(app.getHelperContact().isNoContactsHereDisplayed());
+        //"No contacts here
 
-
+    }
 }
-
 
 
 
