@@ -1,0 +1,22 @@
+12:10:52.375 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+12:10:53.380 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+12:10:53.394 INFO  tests.TestBase - Name of method--->loginSuccess
+12:10:58.425 INFO  tests.TestBase - Before method finished logout
+12:10:58.428 INFO  tests.TestBase - Start test with name loginSuccess
+12:10:58.466 INFO  manager.WDListener - Before click element-->a text = LOGIN
+12:10:58.508 INFO  manager.WDListener - After click element-->a text = LOGIN
+12:10:58.509 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+12:10:58.531 INFO  manager.WDListener - Before click element-->input text = 
+12:10:58.569 INFO  manager.WDListener - After click element-->input text = 
+12:10:58.645 INFO  manager.WDListener - sendKys-->input
+12:10:58.660 INFO  manager.WDListener - sendKys-->input
+12:10:58.673 INFO  manager.WDListener - sendKys-->input
+12:10:58.673 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+12:10:58.687 INFO  manager.WDListener - Before click element-->input text = 
+12:10:58.707 INFO  manager.WDListener - After click element-->input text = 
+12:10:58.723 INFO  manager.WDListener - sendKys-->input
+12:10:58.733 INFO  manager.WDListener - sendKys-->input
+12:10:58.756 INFO  manager.WDListener - sendKys-->input
+12:10:58.756 INFO  tests.TestBase - Test data --> email: 'karinmc9@mail.ru' & password: 'Rfhbyrf29$'
+12:10:58.774 INFO  manager.WDListener - Before click element-->button text = Login
+12:10:59.691 INFO  tests.TestBase - Assert check is element button 'Sign out' present

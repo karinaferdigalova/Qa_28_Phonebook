@@ -1,0 +1,28 @@
+14:18:16.664 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+14:18:17.661 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+14:18:17.675 INFO  manager.TestNGListener - start test-->Tue Mar 04 14:18:17 IST 2025
+14:18:17.691 INFO  tests.TestBase - Name of method--->loginSuccess
+14:18:22.743 INFO  tests.TestBase - Before method finished logout
+14:18:22.745 INFO  manager.TestNGListener - start test-->loginSuccess
+14:18:22.745 INFO  tests.TestBase - Start test with name loginSuccess
+14:18:22.781 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:18:22.829 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:18:22.830 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:18:22.848 INFO  manager.WDListener - Before click element-->input text = 
+14:18:22.886 INFO  manager.WDListener - After click element-->input text = 
+14:18:22.887 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (58b4918c6acac9232635798b178ff0e9)] -> name: email]
+14:18:22.985 INFO  manager.WDListener - sendKys-->input
+14:18:22.999 INFO  manager.WDListener - sendKys-->input
+14:18:23.015 INFO  manager.WDListener - sendKys-->input
+14:18:23.015 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:18:23.032 INFO  manager.WDListener - Before click element-->input text = 
+14:18:23.054 INFO  manager.WDListener - After click element-->input text = 
+14:18:23.055 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (58b4918c6acac9232635798b178ff0e9)] -> xpath: //input[last()]]
+14:18:23.073 INFO  manager.WDListener - sendKys-->input
+14:18:23.083 INFO  manager.WDListener - sendKys-->input
+14:18:23.096 INFO  manager.WDListener - sendKys-->input
+14:18:23.096 INFO  tests.TestBase - Test data --> email: 'karinmc9@mail.ru' & password: 'Rfhbyrf29$'
+14:18:23.112 INFO  manager.WDListener - Before click element-->button text = Login
+14:18:24.268 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+14:18:24.269 INFO  manager.TestNGListener - start test-->loginSuccess
+14:18:24.270 INFO  manager.TestNGListener - start test-->Tue Mar 04 14:18:24 IST 2025

@@ -1,0 +1,32 @@
+13:53:39.219 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+13:53:40.058 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+13:53:40.072 INFO  tests.TestBase - Name of method--->loginSuccess
+13:53:45.114 INFO  tests.TestBase - Before method finished logout
+13:53:45.115 INFO  tests.TestBase - Start test with name loginSuccess
+13:53:45.162 INFO  manager.WDListener - Before click element-->a text = LOGIN
+13:53:45.226 INFO  manager.WDListener - After click element-->a text = LOGIN
+13:53:45.226 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+13:53:45.247 INFO  manager.WDListener - Before click element-->input text = 
+13:53:45.289 INFO  manager.WDListener - After click element-->input text = 
+13:53:45.290 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (161eb1f1418ac724b336fb367df68e22)] -> name: email]
+13:53:45.381 INFO  manager.WDListener - sendKys-->input
+13:53:45.396 INFO  manager.WDListener - sendKys-->input
+13:53:45.411 INFO  manager.WDListener - sendKys-->input
+13:53:45.411 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+13:53:45.425 INFO  manager.WDListener - We have a problem
+13:53:45.425 INFO  manager.WDListener - Object targer-->ChromeDriver: chrome on mac (161eb1f1418ac724b336fb367df68e22)
+13:53:45.425 INFO  manager.WDListener - *****************
+13:53:45.425 INFO  manager.WDListener - Method name-->findElement
+13:53:45.425 INFO  manager.WDListener - *****************
+13:53:45.426 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //input[la()] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[la()]' is not a valid XPath expression.
+  (Session info: chrome=133.0.6943.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [161eb1f1418ac724b336fb367df68e22, findElement {using=xpath, value=//input[la()]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.142, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51796}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51796/devtoo..., se:cdpVersion: 133.0.6943.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 161eb1f1418ac724b336fb367df68e22
+13:53:45.426 INFO  manager.WDListener - *****************
+13:53:45.426 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1992 .png
