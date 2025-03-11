@@ -1,0 +1,152 @@
+13:52:32.825 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+13:52:33.650 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+13:52:33.656 INFO  manager.TestNGListener - start test-->Tue Mar 11 13:52:33 IST 2025
+13:52:33.667 INFO  tests.TestBase - Name of method--->addContactSuccessAllFieldsCSV
+13:52:38.751 INFO  manager.WDListener - Before click element-->a text = LOGIN
+13:52:38.784 INFO  manager.WDListener - After click element-->a text = LOGIN
+13:52:38.785 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+13:52:38.805 INFO  manager.WDListener - Before click element-->input text = 
+13:52:38.839 INFO  manager.WDListener - After click element-->input text = 
+13:52:38.839 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> name: email]
+13:52:38.908 INFO  manager.WDListener - sendKys-->input
+13:52:38.919 INFO  manager.WDListener - sendKys-->input
+13:52:38.933 INFO  manager.WDListener - sendKys-->input
+13:52:38.946 INFO  manager.WDListener - Before click element-->input text = 
+13:52:38.966 INFO  manager.WDListener - After click element-->input text = 
+13:52:38.967 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> xpath: //input[last()]]
+13:52:38.984 INFO  manager.WDListener - sendKys-->input
+13:52:38.993 INFO  manager.WDListener - sendKys-->input
+13:52:39.004 INFO  manager.WDListener - sendKys-->input
+13:52:39.017 INFO  manager.WDListener - Before click element-->button text = Login
+13:52:39.046 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+13:52:39.049 INFO  tests.TestBase - Tests run with data: --->Contact(name=Harry, lastName=Potter, phone=123654789654, email=harry@maiil.com, address=NY, description=move)
+13:52:39.933 INFO  manager.WDListener - Before click element-->a text = ADD
+13:52:39.963 INFO  manager.WDListener - After click element-->a text = ADD
+13:52:39.977 INFO  manager.WDListener - Before click element-->input text = 
+13:52:40.002 INFO  manager.WDListener - After click element-->input text = 
+13:52:40.002 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Name']]
+13:52:40.020 INFO  manager.WDListener - sendKys-->input
+13:52:40.029 INFO  manager.WDListener - sendKys-->input
+13:52:40.040 INFO  manager.WDListener - sendKys-->input
+13:52:40.054 INFO  manager.WDListener - Before click element-->input text = 
+13:52:40.073 INFO  manager.WDListener - After click element-->input text = 
+13:52:40.073 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Last Name']]
+13:52:40.090 INFO  manager.WDListener - sendKys-->input
+13:52:40.100 INFO  manager.WDListener - sendKys-->input
+13:52:40.110 INFO  manager.WDListener - sendKys-->input
+13:52:40.123 INFO  manager.WDListener - Before click element-->input text = 
+13:52:40.144 INFO  manager.WDListener - After click element-->input text = 
+13:52:40.144 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Phone']]
+13:52:40.162 INFO  manager.WDListener - sendKys-->input
+13:52:40.171 INFO  manager.WDListener - sendKys-->input
+13:52:40.183 INFO  manager.WDListener - sendKys-->input
+13:52:40.195 INFO  manager.WDListener - Before click element-->input text = 
+13:52:40.217 INFO  manager.WDListener - After click element-->input text = 
+13:52:40.217 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='email']]
+13:52:40.234 INFO  manager.WDListener - sendKys-->input
+13:52:40.244 INFO  manager.WDListener - sendKys-->input
+13:52:40.257 INFO  manager.WDListener - sendKys-->input
+13:52:40.270 INFO  manager.WDListener - Before click element-->input text = 
+13:52:40.290 INFO  manager.WDListener - After click element-->input text = 
+13:52:40.291 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Address']]
+13:52:40.308 INFO  manager.WDListener - sendKys-->input
+13:52:40.317 INFO  manager.WDListener - sendKys-->input
+13:52:40.326 INFO  manager.WDListener - sendKys-->input
+13:52:40.338 INFO  manager.WDListener - Before click element-->input text = 
+13:52:40.359 INFO  manager.WDListener - After click element-->input text = 
+13:52:40.360 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='description']]
+13:52:40.376 INFO  manager.WDListener - sendKys-->input
+13:52:40.386 INFO  manager.WDListener - sendKys-->input
+13:52:40.396 INFO  manager.WDListener - sendKys-->input
+13:52:40.758 INFO  manager.WDListener - Before click element-->b text = Save
+13:52:40.782 INFO  manager.WDListener - After click element-->b text = Save
+13:52:42.318 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+13:52:42.319 INFO  tests.TestBase - Name of method--->addContactSuccessAllFieldsCSV
+13:52:42.324 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+13:52:42.324 INFO  tests.TestBase - Tests run with data: --->Contact(name=Molly, lastName=Potter, phone=987456321568, email=molly@gmail.com, address=NY, description=move)
+13:52:42.332 INFO  manager.WDListener - Before click element-->a text = ADD
+13:52:42.356 INFO  manager.WDListener - After click element-->a text = ADD
+13:52:42.364 INFO  manager.WDListener - Before click element-->input text = 
+13:52:42.385 INFO  manager.WDListener - After click element-->input text = 
+13:52:42.385 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Name']]
+13:52:42.402 INFO  manager.WDListener - sendKys-->input
+13:52:42.411 INFO  manager.WDListener - sendKys-->input
+13:52:42.420 INFO  manager.WDListener - sendKys-->input
+13:52:42.429 INFO  manager.WDListener - Before click element-->input text = 
+13:52:42.451 INFO  manager.WDListener - After click element-->input text = 
+13:52:42.451 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Last Name']]
+13:52:42.469 INFO  manager.WDListener - sendKys-->input
+13:52:42.477 INFO  manager.WDListener - sendKys-->input
+13:52:42.486 INFO  manager.WDListener - sendKys-->input
+13:52:42.496 INFO  manager.WDListener - Before click element-->input text = 
+13:52:42.516 INFO  manager.WDListener - After click element-->input text = 
+13:52:42.516 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Phone']]
+13:52:42.532 INFO  manager.WDListener - sendKys-->input
+13:52:42.540 INFO  manager.WDListener - sendKys-->input
+13:52:42.551 INFO  manager.WDListener - sendKys-->input
+13:52:42.559 INFO  manager.WDListener - Before click element-->input text = 
+13:52:42.584 INFO  manager.WDListener - After click element-->input text = 
+13:52:42.584 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='email']]
+13:52:42.606 INFO  manager.WDListener - sendKys-->input
+13:52:42.621 INFO  manager.WDListener - sendKys-->input
+13:52:42.634 INFO  manager.WDListener - sendKys-->input
+13:52:42.643 INFO  manager.WDListener - Before click element-->input text = 
+13:52:42.663 INFO  manager.WDListener - After click element-->input text = 
+13:52:42.663 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Address']]
+13:52:42.679 INFO  manager.WDListener - sendKys-->input
+13:52:42.689 INFO  manager.WDListener - sendKys-->input
+13:52:42.699 INFO  manager.WDListener - sendKys-->input
+13:52:42.707 INFO  manager.WDListener - Before click element-->input text = 
+13:52:42.726 INFO  manager.WDListener - After click element-->input text = 
+13:52:42.727 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='description']]
+13:52:42.743 INFO  manager.WDListener - sendKys-->input
+13:52:42.753 INFO  manager.WDListener - sendKys-->input
+13:52:42.763 INFO  manager.WDListener - sendKys-->input
+13:52:42.987 INFO  manager.WDListener - Before click element-->b text = Save
+13:52:43.007 INFO  manager.WDListener - After click element-->b text = Save
+13:52:44.307 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+13:52:44.307 INFO  tests.TestBase - Name of method--->addContactSuccessAllFieldsCSV
+13:52:44.314 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+13:52:44.314 INFO  tests.TestBase - Tests run with data: --->Contact(name=Sara, lastName=Potter, phone=123654333333, email=sara@gmail.com, address=NY, description=move)
+13:52:44.322 INFO  manager.WDListener - Before click element-->a text = ADD
+13:52:44.344 INFO  manager.WDListener - After click element-->a text = ADD
+13:52:44.353 INFO  manager.WDListener - Before click element-->input text = 
+13:52:44.377 INFO  manager.WDListener - After click element-->input text = 
+13:52:44.377 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Name']]
+13:52:44.394 INFO  manager.WDListener - sendKys-->input
+13:52:44.403 INFO  manager.WDListener - sendKys-->input
+13:52:44.411 INFO  manager.WDListener - sendKys-->input
+13:52:44.419 INFO  manager.WDListener - Before click element-->input text = 
+13:52:44.439 INFO  manager.WDListener - After click element-->input text = 
+13:52:44.439 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Last Name']]
+13:52:44.456 INFO  manager.WDListener - sendKys-->input
+13:52:44.465 INFO  manager.WDListener - sendKys-->input
+13:52:44.475 INFO  manager.WDListener - sendKys-->input
+13:52:44.483 INFO  manager.WDListener - Before click element-->input text = 
+13:52:44.503 INFO  manager.WDListener - After click element-->input text = 
+13:52:44.503 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Phone']]
+13:52:44.519 INFO  manager.WDListener - sendKys-->input
+13:52:44.528 INFO  manager.WDListener - sendKys-->input
+13:52:44.540 INFO  manager.WDListener - sendKys-->input
+13:52:44.549 INFO  manager.WDListener - Before click element-->input text = 
+13:52:44.568 INFO  manager.WDListener - After click element-->input text = 
+13:52:44.568 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='email']]
+13:52:44.585 INFO  manager.WDListener - sendKys-->input
+13:52:44.593 INFO  manager.WDListener - sendKys-->input
+13:52:44.604 INFO  manager.WDListener - sendKys-->input
+13:52:44.613 INFO  manager.WDListener - Before click element-->input text = 
+13:52:44.633 INFO  manager.WDListener - After click element-->input text = 
+13:52:44.633 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='Address']]
+13:52:44.649 INFO  manager.WDListener - sendKys-->input
+13:52:44.658 INFO  manager.WDListener - sendKys-->input
+13:52:44.667 INFO  manager.WDListener - sendKys-->input
+13:52:44.675 INFO  manager.WDListener - Before click element-->input text = 
+13:52:44.694 INFO  manager.WDListener - After click element-->input text = 
+13:52:44.695 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (7b8907ffd60296205625f24467a94ebe)] -> css selector: [placeholder='description']]
+13:52:44.711 INFO  manager.WDListener - sendKys-->input
+13:52:44.720 INFO  manager.WDListener - sendKys-->input
+13:52:44.730 INFO  manager.WDListener - sendKys-->input
+13:52:44.948 INFO  manager.WDListener - Before click element-->b text = Save
+13:52:44.966 INFO  manager.WDListener - After click element-->b text = Save
+13:52:46.240 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+13:52:46.242 INFO  manager.TestNGListener - start test-->Tue Mar 11 13:52:46 IST 2025

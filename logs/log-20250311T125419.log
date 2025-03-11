@@ -1,0 +1,43 @@
+12:54:21.722 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+12:54:22.571 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+12:54:22.577 INFO  manager.TestNGListener - start test-->Tue Mar 11 12:54:22 IST 2025
+12:54:22.587 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+12:54:27.644 INFO  tests.TestBase - Before method finished logout
+12:54:27.647 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+12:54:27.647 INFO  tests.TestBase - Test data-->User{email='margo@gmail.com', password=''}
+12:54:27.679 INFO  manager.WDListener - Before click element-->a text = LOGIN
+12:54:27.715 INFO  manager.WDListener - After click element-->a text = LOGIN
+12:54:27.715 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+12:54:27.730 INFO  manager.WDListener - Before click element-->input text = 
+12:54:27.764 INFO  manager.WDListener - After click element-->input text = 
+12:54:27.764 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (733d5492f7d776874f4b22f1ff924aa0)] -> name: email]
+12:54:27.839 INFO  manager.WDListener - sendKys-->input
+12:54:27.852 INFO  manager.WDListener - sendKys-->input
+12:54:27.866 INFO  manager.WDListener - sendKys-->input
+12:54:27.880 INFO  manager.WDListener - Before click element-->input text = 
+12:54:27.901 INFO  manager.WDListener - After click element-->input text = 
+12:54:27.901 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (733d5492f7d776874f4b22f1ff924aa0)] -> xpath: //input[last()]]
+12:54:27.918 INFO  manager.WDListener - sendKys-->input
+12:54:27.927 INFO  manager.WDListener - sendKys-->input
+12:54:27.937 INFO  manager.WDListener - sendKys-->input
+12:54:27.950 INFO  manager.WDListener - Before click element-->button text = Login
+12:54:28.973 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+12:54:28.974 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+12:54:28.979 INFO  manager.WDListener - We have a problem
+12:54:28.979 INFO  manager.WDListener - Object targer-->ChromeDriver: chrome on mac (733d5492f7d776874f4b22f1ff924aa0)
+12:54:28.980 INFO  manager.WDListener - *****************
+12:54:28.980 INFO  manager.WDListener - Method name-->findElements
+12:54:28.980 INFO  manager.WDListener - *****************
+12:54:28.980 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=134.0.6998.45): Wrong email or password
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [733d5492f7d776874f4b22f1ff924aa0, findElements {using=xpath, value=//button[text() = 'Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49268}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49268/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 733d5492f7d776874f4b22f1ff924aa0
+12:54:28.980 INFO  manager.WDListener - *****************
+12:54:28.980 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1805 .png
+12:54:29.302 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+12:54:29.302 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+12:54:29.303 INFO  manager.TestNGListener - start test-->Tue Mar 11 12:54:29 IST 2025
