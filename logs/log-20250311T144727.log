@@ -1,0 +1,1299 @@
+14:47:29.237 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+14:47:30.395 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+14:47:30.406 INFO  manager.TestNGListener - start test-->Tue Mar 11 14:47:30 IST 2025
+14:47:30.416 INFO  manager.TestNGListener - start test-->addContactSuccessAllFields
+14:47:30.422 INFO  tests.TestBase - Name of method--->addContactSuccessAllFieldsCSV
+14:47:35.489 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:47:35.547 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:47:35.548 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:47:35.565 INFO  manager.WDListener - Before click element-->input text = 
+14:47:35.615 INFO  manager.WDListener - After click element-->input text = 
+14:47:35.615 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:47:35.708 INFO  manager.WDListener - sendKys-->input
+14:47:35.724 INFO  manager.WDListener - sendKys-->input
+14:47:35.740 INFO  manager.WDListener - sendKys-->input
+14:47:35.755 INFO  manager.WDListener - Before click element-->input text = 
+14:47:35.776 INFO  manager.WDListener - After click element-->input text = 
+14:47:35.776 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:47:35.796 INFO  manager.WDListener - sendKys-->input
+14:47:35.805 INFO  manager.WDListener - sendKys-->input
+14:47:35.818 INFO  manager.WDListener - sendKys-->input
+14:47:35.832 INFO  manager.WDListener - Before click element-->button text = Login
+14:47:35.873 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+14:47:35.875 INFO  tests.TestBase - Tests run with data: --->Contact(name=Harry, lastName=Potter, phone=123654789654, email=harry@maiil.com, address=NY, description=move)
+14:47:36.765 INFO  manager.WDListener - Before click element-->a text = ADD
+14:47:36.796 INFO  manager.WDListener - After click element-->a text = ADD
+14:47:36.812 INFO  manager.WDListener - Before click element-->input text = 
+14:47:36.838 INFO  manager.WDListener - After click element-->input text = 
+14:47:36.838 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:47:36.857 INFO  manager.WDListener - sendKys-->input
+14:47:36.869 INFO  manager.WDListener - sendKys-->input
+14:47:36.881 INFO  manager.WDListener - sendKys-->input
+14:47:36.897 INFO  manager.WDListener - Before click element-->input text = 
+14:47:36.948 INFO  manager.WDListener - After click element-->input text = 
+14:47:36.948 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:47:36.976 INFO  manager.WDListener - sendKys-->input
+14:47:36.988 INFO  manager.WDListener - sendKys-->input
+14:47:37.001 INFO  manager.WDListener - sendKys-->input
+14:47:37.017 INFO  manager.WDListener - Before click element-->input text = 
+14:47:37.043 INFO  manager.WDListener - After click element-->input text = 
+14:47:37.044 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:47:37.061 INFO  manager.WDListener - sendKys-->input
+14:47:37.072 INFO  manager.WDListener - sendKys-->input
+14:47:37.084 INFO  manager.WDListener - sendKys-->input
+14:47:37.097 INFO  manager.WDListener - Before click element-->input text = 
+14:47:37.119 INFO  manager.WDListener - After click element-->input text = 
+14:47:37.119 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:47:37.139 INFO  manager.WDListener - sendKys-->input
+14:47:37.148 INFO  manager.WDListener - sendKys-->input
+14:47:37.160 INFO  manager.WDListener - sendKys-->input
+14:47:37.175 INFO  manager.WDListener - Before click element-->input text = 
+14:47:37.198 INFO  manager.WDListener - After click element-->input text = 
+14:47:37.198 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:47:37.213 INFO  manager.WDListener - sendKys-->input
+14:47:37.223 INFO  manager.WDListener - sendKys-->input
+14:47:37.232 INFO  manager.WDListener - sendKys-->input
+14:47:37.245 INFO  manager.WDListener - Before click element-->input text = 
+14:47:37.267 INFO  manager.WDListener - After click element-->input text = 
+14:47:37.267 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:47:37.284 INFO  manager.WDListener - sendKys-->input
+14:47:37.294 INFO  manager.WDListener - sendKys-->input
+14:47:37.305 INFO  manager.WDListener - sendKys-->input
+14:47:42.844 INFO  manager.WDListener - Before click element-->b text = Save
+14:47:42.867 INFO  manager.WDListener - After click element-->b text = Save
+14:47:44.743 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+14:47:44.744 INFO  tests.TestBase - Name of method--->addContactSuccessAllFieldsCSV
+14:47:44.749 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+14:47:44.749 INFO  tests.TestBase - Tests run with data: --->Contact(name=Molly, lastName=Potter, phone=987456321568, email=molly@gmail.com, address=NY, description=move)
+14:47:44.758 INFO  manager.WDListener - Before click element-->a text = ADD
+14:47:44.784 INFO  manager.WDListener - After click element-->a text = ADD
+14:47:44.800 INFO  manager.WDListener - Before click element-->input text = 
+14:47:44.828 INFO  manager.WDListener - After click element-->input text = 
+14:47:44.828 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:47:44.848 INFO  manager.WDListener - sendKys-->input
+14:47:44.857 INFO  manager.WDListener - sendKys-->input
+14:47:44.866 INFO  manager.WDListener - sendKys-->input
+14:47:44.875 INFO  manager.WDListener - Before click element-->input text = 
+14:47:44.899 INFO  manager.WDListener - After click element-->input text = 
+14:47:44.899 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:47:44.916 INFO  manager.WDListener - sendKys-->input
+14:47:44.925 INFO  manager.WDListener - sendKys-->input
+14:47:44.935 INFO  manager.WDListener - sendKys-->input
+14:47:44.944 INFO  manager.WDListener - Before click element-->input text = 
+14:47:44.964 INFO  manager.WDListener - After click element-->input text = 
+14:47:44.964 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:47:44.980 INFO  manager.WDListener - sendKys-->input
+14:47:44.990 INFO  manager.WDListener - sendKys-->input
+14:47:45.002 INFO  manager.WDListener - sendKys-->input
+14:47:45.010 INFO  manager.WDListener - Before click element-->input text = 
+14:47:45.031 INFO  manager.WDListener - After click element-->input text = 
+14:47:45.031 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:47:45.048 INFO  manager.WDListener - sendKys-->input
+14:47:45.057 INFO  manager.WDListener - sendKys-->input
+14:47:45.069 INFO  manager.WDListener - sendKys-->input
+14:47:45.078 INFO  manager.WDListener - Before click element-->input text = 
+14:47:45.097 INFO  manager.WDListener - After click element-->input text = 
+14:47:45.098 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:47:45.114 INFO  manager.WDListener - sendKys-->input
+14:47:45.123 INFO  manager.WDListener - sendKys-->input
+14:47:45.133 INFO  manager.WDListener - sendKys-->input
+14:47:45.143 INFO  manager.WDListener - Before click element-->input text = 
+14:47:45.163 INFO  manager.WDListener - After click element-->input text = 
+14:47:45.163 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:47:45.180 INFO  manager.WDListener - sendKys-->input
+14:47:45.189 INFO  manager.WDListener - sendKys-->input
+14:47:45.198 INFO  manager.WDListener - sendKys-->input
+14:47:50.473 INFO  manager.WDListener - Before click element-->b text = Save
+14:47:50.495 INFO  manager.WDListener - After click element-->b text = Save
+14:47:51.881 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+14:47:51.882 INFO  tests.TestBase - Name of method--->addContactSuccessAllFieldsCSV
+14:47:51.886 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+14:47:51.886 INFO  tests.TestBase - Tests run with data: --->Contact(name=Sara, lastName=Potter, phone=123654333333, email=sara@gmail.com, address=NY, description=move)
+14:47:51.894 INFO  manager.WDListener - Before click element-->a text = ADD
+14:47:51.917 INFO  manager.WDListener - After click element-->a text = ADD
+14:47:51.925 INFO  manager.WDListener - Before click element-->input text = 
+14:47:51.947 INFO  manager.WDListener - After click element-->input text = 
+14:47:51.947 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:47:51.964 INFO  manager.WDListener - sendKys-->input
+14:47:51.972 INFO  manager.WDListener - sendKys-->input
+14:47:51.982 INFO  manager.WDListener - sendKys-->input
+14:47:51.990 INFO  manager.WDListener - Before click element-->input text = 
+14:47:52.015 INFO  manager.WDListener - After click element-->input text = 
+14:47:52.015 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:47:52.032 INFO  manager.WDListener - sendKys-->input
+14:47:52.041 INFO  manager.WDListener - sendKys-->input
+14:47:52.051 INFO  manager.WDListener - sendKys-->input
+14:47:52.060 INFO  manager.WDListener - Before click element-->input text = 
+14:47:52.079 INFO  manager.WDListener - After click element-->input text = 
+14:47:52.080 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:47:52.095 INFO  manager.WDListener - sendKys-->input
+14:47:52.104 INFO  manager.WDListener - sendKys-->input
+14:47:52.116 INFO  manager.WDListener - sendKys-->input
+14:47:52.125 INFO  manager.WDListener - Before click element-->input text = 
+14:47:52.145 INFO  manager.WDListener - After click element-->input text = 
+14:47:52.145 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:47:52.162 INFO  manager.WDListener - sendKys-->input
+14:47:52.171 INFO  manager.WDListener - sendKys-->input
+14:47:52.182 INFO  manager.WDListener - sendKys-->input
+14:47:52.190 INFO  manager.WDListener - Before click element-->input text = 
+14:47:52.210 INFO  manager.WDListener - After click element-->input text = 
+14:47:52.210 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:47:52.226 INFO  manager.WDListener - sendKys-->input
+14:47:52.235 INFO  manager.WDListener - sendKys-->input
+14:47:52.245 INFO  manager.WDListener - sendKys-->input
+14:47:52.254 INFO  manager.WDListener - Before click element-->input text = 
+14:47:52.274 INFO  manager.WDListener - After click element-->input text = 
+14:47:52.274 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:47:52.291 INFO  manager.WDListener - sendKys-->input
+14:47:52.300 INFO  manager.WDListener - sendKys-->input
+14:47:52.309 INFO  manager.WDListener - sendKys-->input
+14:47:57.567 INFO  manager.WDListener - Before click element-->b text = Save
+14:47:57.588 INFO  manager.WDListener - After click element-->b text = Save
+14:47:58.962 INFO  manager.TestNGListener - start test-->addContactSuccessAllFieldsCSV
+14:47:58.965 INFO  tests.TestBase - Name of method--->addContactSuccessReqFields
+14:47:58.980 INFO  manager.TestNGListener - start test-->addContactSuccessReqFields
+14:47:59.005 INFO  manager.WDListener - Before click element-->a text = ADD
+14:47:59.033 INFO  manager.WDListener - After click element-->a text = ADD
+14:47:59.041 INFO  manager.WDListener - Before click element-->input text = 
+14:47:59.065 INFO  manager.WDListener - After click element-->input text = 
+14:47:59.065 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:47:59.082 INFO  manager.WDListener - sendKys-->input
+14:47:59.097 INFO  manager.WDListener - sendKys-->input
+14:47:59.106 INFO  manager.WDListener - sendKys-->input
+14:47:59.115 INFO  manager.WDListener - Before click element-->input text = 
+14:47:59.134 INFO  manager.WDListener - After click element-->input text = 
+14:47:59.134 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:47:59.149 INFO  manager.WDListener - sendKys-->input
+14:47:59.157 INFO  manager.WDListener - sendKys-->input
+14:47:59.168 INFO  manager.WDListener - sendKys-->input
+14:47:59.175 INFO  manager.WDListener - Before click element-->input text = 
+14:47:59.195 INFO  manager.WDListener - After click element-->input text = 
+14:47:59.195 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:47:59.210 INFO  manager.WDListener - sendKys-->input
+14:47:59.222 INFO  manager.WDListener - sendKys-->input
+14:47:59.235 INFO  manager.WDListener - sendKys-->input
+14:47:59.242 INFO  manager.WDListener - Before click element-->input text = 
+14:47:59.261 INFO  manager.WDListener - After click element-->input text = 
+14:47:59.261 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:47:59.310 INFO  manager.WDListener - sendKys-->input
+14:47:59.336 INFO  manager.WDListener - sendKys-->input
+14:47:59.374 INFO  manager.WDListener - sendKys-->input
+14:47:59.384 INFO  manager.WDListener - Before click element-->input text = 
+14:47:59.405 INFO  manager.WDListener - After click element-->input text = 
+14:47:59.406 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:47:59.423 INFO  manager.WDListener - sendKys-->input
+14:47:59.432 INFO  manager.WDListener - sendKys-->input
+14:47:59.443 INFO  manager.WDListener - sendKys-->input
+14:47:59.452 INFO  manager.WDListener - Before click element-->input text = 
+14:47:59.470 INFO  manager.WDListener - After click element-->input text = 
+14:47:59.470 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:47:59.485 INFO  manager.WDListener - sendKys-->input
+14:47:59.493 INFO  manager.WDListener - sendKys-->input
+14:47:59.512 INFO  manager.WDListener - Before click element-->b text = Save
+14:47:59.536 INFO  manager.WDListener - After click element-->b text = Save
+14:48:00.924 INFO  manager.TestNGListener - start test-->addContactSuccessReqFields
+14:48:00.925 INFO  tests.TestBase - Name of method--->addNewContactWrongAddress
+14:48:00.929 INFO  manager.TestNGListener - start test-->addNewContactWrongAddress
+14:48:00.935 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:00.965 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:00.972 INFO  manager.WDListener - Before click element-->input text = 
+14:48:00.995 INFO  manager.WDListener - After click element-->input text = 
+14:48:00.995 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:01.011 INFO  manager.WDListener - sendKys-->input
+14:48:01.019 INFO  manager.WDListener - sendKys-->input
+14:48:01.028 INFO  manager.WDListener - sendKys-->input
+14:48:01.035 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.052 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.052 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:01.066 INFO  manager.WDListener - sendKys-->input
+14:48:01.074 INFO  manager.WDListener - sendKys-->input
+14:48:01.083 INFO  manager.WDListener - sendKys-->input
+14:48:01.090 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.108 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.108 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:01.123 INFO  manager.WDListener - sendKys-->input
+14:48:01.132 INFO  manager.WDListener - sendKys-->input
+14:48:01.142 INFO  manager.WDListener - sendKys-->input
+14:48:01.151 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.169 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.169 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:01.184 INFO  manager.WDListener - sendKys-->input
+14:48:01.192 INFO  manager.WDListener - sendKys-->input
+14:48:01.204 INFO  manager.WDListener - sendKys-->input
+14:48:01.211 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.229 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.229 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:01.243 INFO  manager.WDListener - sendKys-->input
+14:48:01.251 INFO  manager.WDListener - sendKys-->input
+14:48:01.258 INFO  manager.WDListener - sendKys-->input
+14:48:01.265 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.283 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.283 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:01.297 INFO  manager.WDListener - sendKys-->input
+14:48:01.305 INFO  manager.WDListener - sendKys-->input
+14:48:01.315 INFO  manager.WDListener - sendKys-->input
+14:48:01.322 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:01.346 INFO  manager.WDListener - After click element-->b text = Save
+14:48:01.351 INFO  manager.TestNGListener - start test-->addNewContactWrongAddress
+14:48:01.351 INFO  tests.TestBase - Name of method--->addNewContactWrongEmail
+14:48:01.354 INFO  manager.TestNGListener - start test-->addNewContactWrongEmail
+14:48:01.361 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:01.383 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:01.390 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.412 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.412 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:01.433 INFO  manager.WDListener - sendKys-->input
+14:48:01.441 INFO  manager.WDListener - sendKys-->input
+14:48:01.450 INFO  manager.WDListener - sendKys-->input
+14:48:01.457 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.477 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.477 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:01.497 INFO  manager.WDListener - sendKys-->input
+14:48:01.505 INFO  manager.WDListener - sendKys-->input
+14:48:01.515 INFO  manager.WDListener - sendKys-->input
+14:48:01.523 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.543 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.543 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:01.563 INFO  manager.WDListener - sendKys-->input
+14:48:01.571 INFO  manager.WDListener - sendKys-->input
+14:48:01.581 INFO  manager.WDListener - sendKys-->input
+14:48:01.588 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.607 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.607 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:01.627 INFO  manager.WDListener - sendKys-->input
+14:48:01.635 INFO  manager.WDListener - sendKys-->input
+14:48:01.645 INFO  manager.WDListener - sendKys-->input
+14:48:01.653 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.671 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.672 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:01.686 INFO  manager.WDListener - sendKys-->input
+14:48:01.695 INFO  manager.WDListener - sendKys-->input
+14:48:01.704 INFO  manager.WDListener - sendKys-->input
+14:48:01.712 INFO  manager.WDListener - Before click element-->input text = 
+14:48:01.731 INFO  manager.WDListener - After click element-->input text = 
+14:48:01.731 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:01.749 INFO  manager.WDListener - sendKys-->input
+14:48:01.757 INFO  manager.WDListener - sendKys-->input
+14:48:01.767 INFO  manager.WDListener - sendKys-->input
+14:48:01.774 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:01.795 INFO  manager.WDListener - After click element-->b text = Save
+14:48:01.805 INFO  manager.WDListener - We have a problem
+14:48:01.805 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3221588e
+14:48:01.805 INFO  manager.WDListener - *****************
+14:48:01.805 INFO  manager.WDListener - Method name-->alert
+14:48:01.805 INFO  manager.WDListener - *****************
+14:48:01.805 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:01.805 INFO  manager.WDListener - *****************
+14:48:01.805 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1426 .png
+14:48:02.333 INFO  manager.TestNGListener - start test-->addNewContactWrongEmail
+14:48:02.334 INFO  tests.TestBase - Name of method--->addNewContactWrongLastName
+14:48:02.342 INFO  manager.TestNGListener - start test-->addNewContactWrongLastName
+14:48:02.355 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:02.394 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:02.402 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.422 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.422 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:02.442 INFO  manager.WDListener - sendKys-->input
+14:48:02.451 INFO  manager.WDListener - sendKys-->input
+14:48:02.460 INFO  manager.WDListener - sendKys-->input
+14:48:02.468 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.511 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.512 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:02.533 INFO  manager.WDListener - sendKys-->input
+14:48:02.542 INFO  manager.WDListener - sendKys-->input
+14:48:02.550 INFO  manager.WDListener - sendKys-->input
+14:48:02.558 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.581 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.581 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:02.601 INFO  manager.WDListener - sendKys-->input
+14:48:02.609 INFO  manager.WDListener - sendKys-->input
+14:48:02.619 INFO  manager.WDListener - sendKys-->input
+14:48:02.626 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.645 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.645 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:02.667 INFO  manager.WDListener - sendKys-->input
+14:48:02.675 INFO  manager.WDListener - sendKys-->input
+14:48:02.686 INFO  manager.WDListener - sendKys-->input
+14:48:02.693 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.713 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.713 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:02.732 INFO  manager.WDListener - sendKys-->input
+14:48:02.740 INFO  manager.WDListener - sendKys-->input
+14:48:02.750 INFO  manager.WDListener - sendKys-->input
+14:48:02.757 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.776 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.776 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:02.796 INFO  manager.WDListener - sendKys-->input
+14:48:02.804 INFO  manager.WDListener - sendKys-->input
+14:48:02.815 INFO  manager.WDListener - sendKys-->input
+14:48:02.822 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:02.842 INFO  manager.WDListener - After click element-->b text = Save
+14:48:02.846 INFO  manager.TestNGListener - start test-->addNewContactWrongLastName
+14:48:02.847 INFO  tests.TestBase - Name of method--->addNewContactWrongName
+14:48:02.850 INFO  manager.TestNGListener - start test-->addNewContactWrongName
+14:48:02.858 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:02.878 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:02.885 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.910 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.910 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:02.943 INFO  manager.WDListener - sendKys-->input
+14:48:02.952 INFO  manager.WDListener - sendKys-->input
+14:48:02.959 INFO  manager.WDListener - sendKys-->input
+14:48:02.966 INFO  manager.WDListener - Before click element-->input text = 
+14:48:02.985 INFO  manager.WDListener - After click element-->input text = 
+14:48:02.985 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:03.003 INFO  manager.WDListener - sendKys-->input
+14:48:03.012 INFO  manager.WDListener - sendKys-->input
+14:48:03.021 INFO  manager.WDListener - sendKys-->input
+14:48:03.029 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.049 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.049 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:03.068 INFO  manager.WDListener - sendKys-->input
+14:48:03.078 INFO  manager.WDListener - sendKys-->input
+14:48:03.088 INFO  manager.WDListener - sendKys-->input
+14:48:03.096 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.115 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.115 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:03.135 INFO  manager.WDListener - sendKys-->input
+14:48:03.143 INFO  manager.WDListener - sendKys-->input
+14:48:03.155 INFO  manager.WDListener - sendKys-->input
+14:48:03.165 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.184 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.184 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:03.203 INFO  manager.WDListener - sendKys-->input
+14:48:03.212 INFO  manager.WDListener - sendKys-->input
+14:48:03.221 INFO  manager.WDListener - sendKys-->input
+14:48:03.228 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.246 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.247 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:03.265 INFO  manager.WDListener - sendKys-->input
+14:48:03.273 INFO  manager.WDListener - sendKys-->input
+14:48:03.283 INFO  manager.WDListener - sendKys-->input
+14:48:03.290 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:03.314 INFO  manager.WDListener - After click element-->b text = Save
+14:48:03.318 INFO  manager.TestNGListener - start test-->addNewContactWrongName
+14:48:03.318 INFO  tests.TestBase - Name of method--->addNewContactWrongPhone
+14:48:03.322 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:03.329 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:03.348 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:03.356 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.375 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.375 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:03.392 INFO  manager.WDListener - sendKys-->input
+14:48:03.400 INFO  manager.WDListener - sendKys-->input
+14:48:03.409 INFO  manager.WDListener - sendKys-->input
+14:48:03.417 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.437 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.437 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:03.457 INFO  manager.WDListener - sendKys-->input
+14:48:03.466 INFO  manager.WDListener - sendKys-->input
+14:48:03.475 INFO  manager.WDListener - sendKys-->input
+14:48:03.483 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.501 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.501 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:03.521 INFO  manager.WDListener - sendKys-->input
+14:48:03.530 INFO  manager.WDListener - sendKys-->input
+14:48:03.538 INFO  manager.WDListener - sendKys-->input
+14:48:03.546 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.566 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.566 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:03.585 INFO  manager.WDListener - sendKys-->input
+14:48:03.593 INFO  manager.WDListener - sendKys-->input
+14:48:03.603 INFO  manager.WDListener - sendKys-->input
+14:48:03.610 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.628 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.628 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:03.647 INFO  manager.WDListener - sendKys-->input
+14:48:03.655 INFO  manager.WDListener - sendKys-->input
+14:48:03.664 INFO  manager.WDListener - sendKys-->input
+14:48:03.671 INFO  manager.WDListener - Before click element-->input text = 
+14:48:03.690 INFO  manager.WDListener - After click element-->input text = 
+14:48:03.690 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:03.709 INFO  manager.WDListener - sendKys-->input
+14:48:03.717 INFO  manager.WDListener - sendKys-->input
+14:48:03.730 INFO  manager.WDListener - sendKys-->input
+14:48:03.737 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:03.754 INFO  manager.WDListener - After click element-->b text = Save
+14:48:03.759 INFO  manager.WDListener - We have a problem
+14:48:03.760 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@559c4e06
+14:48:03.760 INFO  manager.WDListener - *****************
+14:48:03.760 INFO  manager.WDListener - Method name-->alert
+14:48:03.760 INFO  manager.WDListener - *****************
+14:48:03.760 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:03.760 INFO  manager.WDListener - *****************
+14:48:03.760 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1762 .png
+14:48:04.270 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:04.270 INFO  tests.TestBase - Name of method--->addNewContactWrongPhone
+14:48:04.275 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:04.284 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:04.304 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:04.314 INFO  manager.WDListener - Before click element-->input text = 
+14:48:04.333 INFO  manager.WDListener - After click element-->input text = 
+14:48:04.333 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:04.353 INFO  manager.WDListener - sendKys-->input
+14:48:04.362 INFO  manager.WDListener - sendKys-->input
+14:48:04.371 INFO  manager.WDListener - sendKys-->input
+14:48:04.378 INFO  manager.WDListener - Before click element-->input text = 
+14:48:04.397 INFO  manager.WDListener - After click element-->input text = 
+14:48:04.397 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:04.415 INFO  manager.WDListener - sendKys-->input
+14:48:04.437 INFO  manager.WDListener - sendKys-->input
+14:48:04.448 INFO  manager.WDListener - sendKys-->input
+14:48:04.455 INFO  manager.WDListener - Before click element-->input text = 
+14:48:04.473 INFO  manager.WDListener - After click element-->input text = 
+14:48:04.473 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:04.493 INFO  manager.WDListener - sendKys-->input
+14:48:04.501 INFO  manager.WDListener - sendKys-->input
+14:48:04.515 INFO  manager.WDListener - sendKys-->input
+14:48:04.522 INFO  manager.WDListener - Before click element-->input text = 
+14:48:04.540 INFO  manager.WDListener - After click element-->input text = 
+14:48:04.541 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:04.561 INFO  manager.WDListener - sendKys-->input
+14:48:04.569 INFO  manager.WDListener - sendKys-->input
+14:48:04.580 INFO  manager.WDListener - sendKys-->input
+14:48:04.587 INFO  manager.WDListener - Before click element-->input text = 
+14:48:04.606 INFO  manager.WDListener - After click element-->input text = 
+14:48:04.606 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:04.625 INFO  manager.WDListener - sendKys-->input
+14:48:04.633 INFO  manager.WDListener - sendKys-->input
+14:48:04.642 INFO  manager.WDListener - sendKys-->input
+14:48:04.649 INFO  manager.WDListener - Before click element-->input text = 
+14:48:04.667 INFO  manager.WDListener - After click element-->input text = 
+14:48:04.667 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:04.686 INFO  manager.WDListener - sendKys-->input
+14:48:04.694 INFO  manager.WDListener - sendKys-->input
+14:48:04.704 INFO  manager.WDListener - sendKys-->input
+14:48:04.711 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:04.728 INFO  manager.WDListener - After click element-->b text = Save
+14:48:04.732 INFO  manager.WDListener - We have a problem
+14:48:04.732 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5bb39285
+14:48:04.732 INFO  manager.WDListener - *****************
+14:48:04.732 INFO  manager.WDListener - Method name-->alert
+14:48:04.732 INFO  manager.WDListener - *****************
+14:48:04.732 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:04.733 INFO  manager.WDListener - *****************
+14:48:04.733 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1613 .png
+14:48:05.256 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:05.257 INFO  tests.TestBase - Name of method--->addNewContactWrongPhone
+14:48:05.266 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:05.278 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:05.303 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:05.311 INFO  manager.WDListener - Before click element-->input text = 
+14:48:05.331 INFO  manager.WDListener - After click element-->input text = 
+14:48:05.332 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:05.352 INFO  manager.WDListener - sendKys-->input
+14:48:05.360 INFO  manager.WDListener - sendKys-->input
+14:48:05.369 INFO  manager.WDListener - sendKys-->input
+14:48:05.376 INFO  manager.WDListener - Before click element-->input text = 
+14:48:05.396 INFO  manager.WDListener - After click element-->input text = 
+14:48:05.396 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:05.415 INFO  manager.WDListener - sendKys-->input
+14:48:05.436 INFO  manager.WDListener - sendKys-->input
+14:48:05.446 INFO  manager.WDListener - sendKys-->input
+14:48:05.454 INFO  manager.WDListener - Before click element-->input text = 
+14:48:05.473 INFO  manager.WDListener - After click element-->input text = 
+14:48:05.473 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:05.493 INFO  manager.WDListener - sendKys-->input
+14:48:05.501 INFO  manager.WDListener - sendKys-->input
+14:48:05.508 INFO  manager.WDListener - sendKys-->input
+14:48:05.516 INFO  manager.WDListener - Before click element-->input text = 
+14:48:05.534 INFO  manager.WDListener - After click element-->input text = 
+14:48:05.534 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:05.554 INFO  manager.WDListener - sendKys-->input
+14:48:05.564 INFO  manager.WDListener - sendKys-->input
+14:48:05.575 INFO  manager.WDListener - sendKys-->input
+14:48:05.582 INFO  manager.WDListener - Before click element-->input text = 
+14:48:05.601 INFO  manager.WDListener - After click element-->input text = 
+14:48:05.601 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:05.622 INFO  manager.WDListener - sendKys-->input
+14:48:05.630 INFO  manager.WDListener - sendKys-->input
+14:48:05.639 INFO  manager.WDListener - sendKys-->input
+14:48:05.650 INFO  manager.WDListener - Before click element-->input text = 
+14:48:05.669 INFO  manager.WDListener - After click element-->input text = 
+14:48:05.669 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:05.688 INFO  manager.WDListener - sendKys-->input
+14:48:05.696 INFO  manager.WDListener - sendKys-->input
+14:48:05.706 INFO  manager.WDListener - sendKys-->input
+14:48:05.714 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:05.731 INFO  manager.WDListener - After click element-->b text = Save
+14:48:05.736 INFO  manager.WDListener - We have a problem
+14:48:05.736 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5b0835cb
+14:48:05.736 INFO  manager.WDListener - *****************
+14:48:05.736 INFO  manager.WDListener - Method name-->alert
+14:48:05.736 INFO  manager.WDListener - *****************
+14:48:05.736 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:05.736 INFO  manager.WDListener - *****************
+14:48:05.736 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1188 .png
+14:48:06.262 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:06.263 INFO  tests.TestBase - Name of method--->addNewContactWrongPhone
+14:48:06.272 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:06.285 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:06.313 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:06.321 INFO  manager.WDListener - Before click element-->input text = 
+14:48:06.344 INFO  manager.WDListener - After click element-->input text = 
+14:48:06.344 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:06.364 INFO  manager.WDListener - sendKys-->input
+14:48:06.372 INFO  manager.WDListener - sendKys-->input
+14:48:06.381 INFO  manager.WDListener - sendKys-->input
+14:48:06.389 INFO  manager.WDListener - Before click element-->input text = 
+14:48:06.407 INFO  manager.WDListener - After click element-->input text = 
+14:48:06.407 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:06.440 INFO  manager.WDListener - sendKys-->input
+14:48:06.450 INFO  manager.WDListener - sendKys-->input
+14:48:06.459 INFO  manager.WDListener - sendKys-->input
+14:48:06.467 INFO  manager.WDListener - Before click element-->input text = 
+14:48:06.485 INFO  manager.WDListener - After click element-->input text = 
+14:48:06.485 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:06.500 INFO  manager.WDListener - sendKys-->input
+14:48:06.509 INFO  manager.WDListener - sendKys-->input
+14:48:06.518 INFO  manager.WDListener - sendKys-->input
+14:48:06.526 INFO  manager.WDListener - Before click element-->input text = 
+14:48:06.546 INFO  manager.WDListener - After click element-->input text = 
+14:48:06.546 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:06.566 INFO  manager.WDListener - sendKys-->input
+14:48:06.575 INFO  manager.WDListener - sendKys-->input
+14:48:06.588 INFO  manager.WDListener - sendKys-->input
+14:48:06.595 INFO  manager.WDListener - Before click element-->input text = 
+14:48:06.614 INFO  manager.WDListener - After click element-->input text = 
+14:48:06.614 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:06.632 INFO  manager.WDListener - sendKys-->input
+14:48:06.639 INFO  manager.WDListener - sendKys-->input
+14:48:06.648 INFO  manager.WDListener - sendKys-->input
+14:48:06.654 INFO  manager.WDListener - Before click element-->input text = 
+14:48:06.672 INFO  manager.WDListener - After click element-->input text = 
+14:48:06.672 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:06.690 INFO  manager.WDListener - sendKys-->input
+14:48:06.698 INFO  manager.WDListener - sendKys-->input
+14:48:06.708 INFO  manager.WDListener - sendKys-->input
+14:48:06.715 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:06.731 INFO  manager.WDListener - After click element-->b text = Save
+14:48:06.736 INFO  manager.WDListener - We have a problem
+14:48:06.736 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@4e31b64d
+14:48:06.736 INFO  manager.WDListener - *****************
+14:48:06.736 INFO  manager.WDListener - Method name-->alert
+14:48:06.736 INFO  manager.WDListener - *****************
+14:48:06.736 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:06.736 INFO  manager.WDListener - *****************
+14:48:06.736 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1228 .png
+14:48:07.246 INFO  manager.TestNGListener - start test-->addNewContactWrongPhone
+14:48:07.249 INFO  tests.TestBase - Name of method--->loginSuccess
+14:48:07.268 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:07.299 INFO  tests.TestBase - Before method finished logout
+14:48:07.299 INFO  manager.TestNGListener - start test-->loginSuccess
+14:48:07.299 INFO  tests.TestBase - Start test with name 'loginSuccess'
+14:48:07.308 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:07.331 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:07.331 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:07.340 INFO  manager.WDListener - Before click element-->input text = 
+14:48:07.369 INFO  manager.WDListener - After click element-->input text = 
+14:48:07.369 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:07.402 INFO  manager.WDListener - sendKys-->input
+14:48:07.424 INFO  manager.WDListener - sendKys-->input
+14:48:07.436 INFO  manager.WDListener - sendKys-->input
+14:48:07.437 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:48:07.447 INFO  manager.WDListener - Before click element-->input text = 
+14:48:07.479 INFO  manager.WDListener - After click element-->input text = 
+14:48:07.479 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:07.509 INFO  manager.WDListener - sendKys-->input
+14:48:07.517 INFO  manager.WDListener - sendKys-->input
+14:48:07.527 INFO  manager.WDListener - sendKys-->input
+14:48:07.527 INFO  tests.TestBase - Test data --> email: margo@gmail.com & password: Mmar123456$
+14:48:07.537 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:07.843 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+14:48:07.843 INFO  manager.TestNGListener - start test-->loginSuccess
+14:48:07.844 INFO  tests.TestBase - Name of method--->loginSuccess
+14:48:07.861 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:07.884 INFO  tests.TestBase - Before method finished logout
+14:48:07.884 INFO  manager.TestNGListener - start test-->loginSuccess
+14:48:07.884 INFO  tests.TestBase - Start test with name 'loginSuccess'
+14:48:07.892 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:07.916 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:07.916 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:07.924 INFO  manager.WDListener - Before click element-->input text = 
+14:48:07.947 INFO  manager.WDListener - After click element-->input text = 
+14:48:07.948 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:07.993 INFO  manager.WDListener - sendKys-->input
+14:48:08.002 INFO  manager.WDListener - sendKys-->input
+14:48:08.013 INFO  manager.WDListener - sendKys-->input
+14:48:08.013 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:48:08.020 INFO  manager.WDListener - Before click element-->input text = 
+14:48:08.047 INFO  manager.WDListener - After click element-->input text = 
+14:48:08.047 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:08.076 INFO  manager.WDListener - sendKys-->input
+14:48:08.086 INFO  manager.WDListener - sendKys-->input
+14:48:08.097 INFO  manager.WDListener - sendKys-->input
+14:48:08.097 INFO  tests.TestBase - Test data --> email: mara@gmail.com & password: Mmar123456$
+14:48:08.105 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:08.413 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+14:48:08.413 INFO  manager.TestNGListener - start test-->loginSuccess
+14:48:08.414 INFO  tests.TestBase - Name of method--->loginSuccess
+14:48:08.431 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:08.459 INFO  tests.TestBase - Before method finished logout
+14:48:08.459 INFO  manager.TestNGListener - start test-->loginSuccess
+14:48:08.459 INFO  tests.TestBase - Start test with name 'loginSuccess'
+14:48:08.468 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:08.486 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:08.486 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:08.494 INFO  manager.WDListener - Before click element-->input text = 
+14:48:08.518 INFO  manager.WDListener - After click element-->input text = 
+14:48:08.518 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:08.559 INFO  manager.WDListener - sendKys-->input
+14:48:08.567 INFO  manager.WDListener - sendKys-->input
+14:48:08.579 INFO  manager.WDListener - sendKys-->input
+14:48:08.579 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:48:08.586 INFO  manager.WDListener - Before click element-->input text = 
+14:48:08.612 INFO  manager.WDListener - After click element-->input text = 
+14:48:08.613 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:08.643 INFO  manager.WDListener - sendKys-->input
+14:48:08.652 INFO  manager.WDListener - sendKys-->input
+14:48:08.660 INFO  manager.WDListener - sendKys-->input
+14:48:08.661 INFO  tests.TestBase - Test data --> email: sonya@gmail.com & password: Ss12345$
+14:48:08.668 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:08.985 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+14:48:08.986 INFO  manager.TestNGListener - start test-->loginSuccess
+14:48:08.988 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+14:48:09.007 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:09.030 INFO  tests.TestBase - Before method finished logout
+14:48:09.030 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:48:09.031 INFO  tests.TestBase - Test data-->User{email='margo@gmail.com', password='Mmar123456$'}
+14:48:09.039 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:09.056 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:09.056 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:09.065 INFO  manager.WDListener - Before click element-->input text = 
+14:48:09.095 INFO  manager.WDListener - After click element-->input text = 
+14:48:09.095 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:09.116 INFO  manager.WDListener - sendKys-->input
+14:48:09.125 INFO  manager.WDListener - sendKys-->input
+14:48:09.137 INFO  manager.WDListener - sendKys-->input
+14:48:09.151 INFO  manager.WDListener - Before click element-->input text = 
+14:48:09.178 INFO  manager.WDListener - After click element-->input text = 
+14:48:09.178 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:09.202 INFO  manager.WDListener - sendKys-->input
+14:48:09.215 INFO  manager.WDListener - sendKys-->input
+14:48:09.242 INFO  manager.WDListener - sendKys-->input
+14:48:09.249 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:09.565 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:48:09.566 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+14:48:09.585 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:09.611 INFO  tests.TestBase - Before method finished logout
+14:48:09.612 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:48:09.612 INFO  tests.TestBase - Test data-->User{email='mara@gmail.com', password='Mmar123456$'}
+14:48:09.620 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:09.638 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:09.638 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:09.647 INFO  manager.WDListener - Before click element-->input text = 
+14:48:09.671 INFO  manager.WDListener - After click element-->input text = 
+14:48:09.671 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:09.710 INFO  manager.WDListener - sendKys-->input
+14:48:09.718 INFO  manager.WDListener - sendKys-->input
+14:48:09.729 INFO  manager.WDListener - sendKys-->input
+14:48:09.736 INFO  manager.WDListener - Before click element-->input text = 
+14:48:09.763 INFO  manager.WDListener - After click element-->input text = 
+14:48:09.763 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:09.781 INFO  manager.WDListener - sendKys-->input
+14:48:09.790 INFO  manager.WDListener - sendKys-->input
+14:48:09.800 INFO  manager.WDListener - sendKys-->input
+14:48:09.807 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:10.125 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:48:10.126 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+14:48:10.149 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:10.173 INFO  tests.TestBase - Before method finished logout
+14:48:10.174 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:48:10.174 INFO  tests.TestBase - Test data-->User{email='sonya@gmail.com', password='Ss12345$'}
+14:48:10.183 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:10.201 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:10.201 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:10.208 INFO  manager.WDListener - Before click element-->input text = 
+14:48:10.232 INFO  manager.WDListener - After click element-->input text = 
+14:48:10.232 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:10.275 INFO  manager.WDListener - sendKys-->input
+14:48:10.284 INFO  manager.WDListener - sendKys-->input
+14:48:10.295 INFO  manager.WDListener - sendKys-->input
+14:48:10.302 INFO  manager.WDListener - Before click element-->input text = 
+14:48:10.329 INFO  manager.WDListener - After click element-->input text = 
+14:48:10.329 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:10.360 INFO  manager.WDListener - sendKys-->input
+14:48:10.369 INFO  manager.WDListener - sendKys-->input
+14:48:10.378 INFO  manager.WDListener - sendKys-->input
+14:48:10.385 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:10.695 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:48:10.696 INFO  tests.TestBase - Name of method--->loginUnregisteredUser
+14:48:10.717 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:10.740 INFO  tests.TestBase - Before method finished logout
+14:48:10.741 INFO  manager.TestNGListener - start test-->loginUnregisteredUser
+14:48:10.741 INFO  tests.TestBase - Test data --> email: 'maaa@gmail.com' & password: 'Maa123456$'
+14:48:10.750 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:10.768 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:10.768 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:10.775 INFO  manager.WDListener - Before click element-->input text = 
+14:48:10.799 INFO  manager.WDListener - After click element-->input text = 
+14:48:10.799 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:10.842 INFO  manager.WDListener - sendKys-->input
+14:48:10.851 INFO  manager.WDListener - sendKys-->input
+14:48:10.862 INFO  manager.WDListener - sendKys-->input
+14:48:10.862 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:48:10.869 INFO  manager.WDListener - Before click element-->input text = 
+14:48:10.896 INFO  manager.WDListener - After click element-->input text = 
+14:48:10.896 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:10.925 INFO  manager.WDListener - sendKys-->input
+14:48:10.933 INFO  manager.WDListener - sendKys-->input
+14:48:10.942 INFO  manager.WDListener - sendKys-->input
+14:48:10.950 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:10.967 INFO  manager.WDListener - We have a problem
+14:48:10.967 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3e3bf77b
+14:48:10.967 INFO  manager.WDListener - *****************
+14:48:10.967 INFO  manager.WDListener - Method name-->alert
+14:48:10.967 INFO  manager.WDListener - *****************
+14:48:10.967 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:10.967 INFO  manager.WDListener - *****************
+14:48:10.967 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1948 .png
+14:48:11.482 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+14:48:11.483 INFO  manager.TestNGListener - start test-->loginUnregisteredUser
+14:48:11.484 INFO  tests.TestBase - Name of method--->loginWrongEmail
+14:48:16.523 INFO  tests.TestBase - Before method finished logout
+14:48:16.533 INFO  manager.TestNGListener - start test-->loginWrongEmail
+14:48:16.533 INFO  tests.TestBase - Test data --> email: 'karinmc9mail.ru' & password: 'Rfhbyrf29$'
+14:48:16.559 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:16.607 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:16.607 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:16.621 INFO  manager.WDListener - Before click element-->input text = 
+14:48:16.661 INFO  manager.WDListener - After click element-->input text = 
+14:48:16.661 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:16.685 INFO  manager.WDListener - sendKys-->input
+14:48:16.695 INFO  manager.WDListener - sendKys-->input
+14:48:16.706 INFO  manager.WDListener - sendKys-->input
+14:48:16.706 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:48:16.714 INFO  manager.WDListener - Before click element-->input text = 
+14:48:16.732 INFO  manager.WDListener - After click element-->input text = 
+14:48:16.732 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:16.751 INFO  manager.WDListener - sendKys-->input
+14:48:16.759 INFO  manager.WDListener - sendKys-->input
+14:48:16.770 INFO  manager.WDListener - sendKys-->input
+14:48:16.783 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:16.806 INFO  manager.WDListener - We have a problem
+14:48:16.807 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5ead245
+14:48:16.807 INFO  manager.WDListener - *****************
+14:48:16.807 INFO  manager.WDListener - Method name-->alert
+14:48:16.807 INFO  manager.WDListener - *****************
+14:48:16.807 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:16.807 INFO  manager.WDListener - *****************
+14:48:16.807 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1786 .png
+14:48:17.328 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+14:48:17.329 INFO  manager.TestNGListener - start test-->loginWrongEmail
+14:48:17.332 INFO  tests.TestBase - Name of method--->loginWrongPassword
+14:48:22.387 INFO  tests.TestBase - Before method finished logout
+14:48:22.388 INFO  manager.TestNGListener - start test-->loginWrongPassword
+14:48:22.389 INFO  tests.TestBase - Test data --> email: 'karinmc9@mail.ru' & password: 'Rfhbyrf29'
+14:48:22.409 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:22.440 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:22.440 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:22.448 INFO  manager.WDListener - Before click element-->input text = 
+14:48:22.470 INFO  manager.WDListener - After click element-->input text = 
+14:48:22.470 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:22.491 INFO  manager.WDListener - sendKys-->input
+14:48:22.500 INFO  manager.WDListener - sendKys-->input
+14:48:22.529 INFO  manager.WDListener - sendKys-->input
+14:48:22.529 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:48:22.537 INFO  manager.WDListener - Before click element-->input text = 
+14:48:22.555 INFO  manager.WDListener - After click element-->input text = 
+14:48:22.555 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:22.575 INFO  manager.WDListener - sendKys-->input
+14:48:22.584 INFO  manager.WDListener - sendKys-->input
+14:48:22.597 INFO  manager.WDListener - sendKys-->input
+14:48:22.607 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:22.631 INFO  manager.WDListener - We have a problem
+14:48:22.631 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@34114276
+14:48:22.631 INFO  manager.WDListener - *****************
+14:48:22.631 INFO  manager.WDListener - Method name-->alert
+14:48:22.631 INFO  manager.WDListener - *****************
+14:48:22.631 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:22.631 INFO  manager.WDListener - *****************
+14:48:22.631 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1027 .png
+14:48:23.156 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+14:48:23.156 INFO  manager.TestNGListener - start test-->loginWrongPassword
+14:48:23.157 INFO  tests.TestBase - Name of method--->registrationExistsUser
+14:48:28.206 INFO  manager.TestNGListener - start test-->registrationExistsUser
+14:48:28.208 INFO  tests.TestBase - Tests run with data: --->User{email='mara@gmail.com', password='Mmar123456$'}
+14:48:28.230 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:28.260 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:28.260 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:28.269 INFO  manager.WDListener - Before click element-->input text = 
+14:48:28.294 INFO  manager.WDListener - After click element-->input text = 
+14:48:28.294 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:28.320 INFO  manager.WDListener - sendKys-->input
+14:48:28.329 INFO  manager.WDListener - sendKys-->input
+14:48:28.339 INFO  manager.WDListener - sendKys-->input
+14:48:28.347 INFO  manager.WDListener - Before click element-->input text = 
+14:48:28.371 INFO  manager.WDListener - After click element-->input text = 
+14:48:28.371 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:28.438 INFO  manager.WDListener - sendKys-->input
+14:48:28.446 INFO  manager.WDListener - sendKys-->input
+14:48:28.476 INFO  manager.WDListener - sendKys-->input
+14:48:28.485 INFO  manager.WDListener - Before click element-->button text = Registration
+14:48:28.504 INFO  manager.WDListener - We have a problem
+14:48:28.504 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@78c5ef58
+14:48:28.504 INFO  manager.WDListener - *****************
+14:48:28.504 INFO  manager.WDListener - Method name-->alert
+14:48:28.504 INFO  manager.WDListener - *****************
+14:48:28.504 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:28.504 INFO  manager.WDListener - *****************
+14:48:28.504 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1665 .png
+14:48:29.032 INFO  manager.TestNGListener - start test-->registrationExistsUser
+14:48:29.033 INFO  tests.TestBase - Name of method--->registrationSuccess
+14:48:34.084 INFO  manager.TestNGListener - start test-->registrationSuccess
+14:48:34.086 INFO  tests.TestBase - Tests run with data: --->User{email='don2914@gmail.com', password='Ddon123456$'}
+14:48:34.108 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:34.138 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:34.138 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:34.138 INFO  tests.TestBase - openRegistrationForm invoked
+14:48:34.147 INFO  manager.WDListener - Before click element-->input text = 
+14:48:34.177 INFO  manager.WDListener - After click element-->input text = 
+14:48:34.177 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:34.208 INFO  manager.WDListener - sendKys-->input
+14:48:34.220 INFO  manager.WDListener - sendKys-->input
+14:48:34.234 INFO  manager.WDListener - sendKys-->input
+14:48:34.245 INFO  manager.WDListener - Before click element-->input text = 
+14:48:34.268 INFO  manager.WDListener - After click element-->input text = 
+14:48:34.268 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:34.290 INFO  manager.WDListener - sendKys-->input
+14:48:34.300 INFO  manager.WDListener - sendKys-->input
+14:48:34.311 INFO  manager.WDListener - sendKys-->input
+14:48:34.311 INFO  tests.TestBase - fillRegistrationForm invoked
+14:48:34.319 INFO  manager.WDListener - Before click element-->button text = Registration
+14:48:34.337 INFO  tests.TestBase - submitLogin invoked
+14:48:34.811 INFO  manager.TestNGListener - start test-->registrationSuccess
+14:48:34.812 INFO  tests.TestBase - Name of method--->registrationWrongEmail
+14:48:34.825 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:48:34.848 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+14:48:34.848 INFO  tests.TestBase - Tests run with data: --->User{email='dongmail.com', password='Ddon123456$'}
+14:48:34.859 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:34.879 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:34.879 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:34.887 INFO  manager.WDListener - Before click element-->input text = 
+14:48:34.914 INFO  manager.WDListener - After click element-->input text = 
+14:48:34.914 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:34.961 INFO  manager.WDListener - sendKys-->input
+14:48:34.969 INFO  manager.WDListener - sendKys-->input
+14:48:34.979 INFO  manager.WDListener - sendKys-->input
+14:48:34.987 INFO  manager.WDListener - Before click element-->input text = 
+14:48:35.012 INFO  manager.WDListener - After click element-->input text = 
+14:48:35.012 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:35.043 INFO  manager.WDListener - sendKys-->input
+14:48:35.051 INFO  manager.WDListener - sendKys-->input
+14:48:35.060 INFO  manager.WDListener - sendKys-->input
+14:48:35.067 INFO  manager.WDListener - Before click element-->button text = Registration
+14:48:35.084 INFO  manager.WDListener - We have a problem
+14:48:35.084 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@41736818
+14:48:35.084 INFO  manager.WDListener - *****************
+14:48:35.084 INFO  manager.WDListener - Method name-->alert
+14:48:35.084 INFO  manager.WDListener - *****************
+14:48:35.084 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:35.084 INFO  manager.WDListener - *****************
+14:48:35.084 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1342 .png
+14:48:35.611 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+14:48:35.612 INFO  tests.TestBase - Name of method--->registrationWrongPassword
+14:48:40.643 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+14:48:40.644 INFO  tests.TestBase - Tests run with data: --->User{email='don@gmail.com', password='Ddon123'}
+14:48:40.656 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:40.681 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:40.681 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:40.689 INFO  manager.WDListener - Before click element-->input text = 
+14:48:40.711 INFO  manager.WDListener - After click element-->input text = 
+14:48:40.711 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:40.733 INFO  manager.WDListener - sendKys-->input
+14:48:40.742 INFO  manager.WDListener - sendKys-->input
+14:48:40.752 INFO  manager.WDListener - sendKys-->input
+14:48:40.760 INFO  manager.WDListener - Before click element-->input text = 
+14:48:40.777 INFO  manager.WDListener - After click element-->input text = 
+14:48:40.778 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:40.796 INFO  manager.WDListener - sendKys-->input
+14:48:40.803 INFO  manager.WDListener - sendKys-->input
+14:48:40.826 INFO  manager.WDListener - sendKys-->input
+14:48:40.835 INFO  manager.WDListener - Before click element-->button text = Registration
+14:48:40.856 INFO  manager.WDListener - We have a problem
+14:48:40.856 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3d67e3d3
+14:48:40.856 INFO  manager.WDListener - *****************
+14:48:40.856 INFO  manager.WDListener - Method name-->alert
+14:48:40.856 INFO  manager.WDListener - *****************
+14:48:40.856 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b19e54cba7317609120ef498142adedf, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49689/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b19e54cba7317609120ef498142adedf
+14:48:40.856 INFO  manager.WDListener - *****************
+14:48:40.856 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1287 .png
+14:48:41.368 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+14:48:41.369 INFO  tests.TestBase - Name of method--->removeAllContacts
+14:48:46.406 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:48:46.438 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:48:46.438 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:48:46.447 INFO  manager.WDListener - Before click element-->input text = 
+14:48:46.477 INFO  manager.WDListener - After click element-->input text = 
+14:48:46.478 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> name: email]
+14:48:46.501 INFO  manager.WDListener - sendKys-->input
+14:48:46.510 INFO  manager.WDListener - sendKys-->input
+14:48:46.522 INFO  manager.WDListener - sendKys-->input
+14:48:46.533 INFO  manager.WDListener - Before click element-->input text = 
+14:48:46.564 INFO  manager.WDListener - After click element-->input text = 
+14:48:46.564 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> xpath: //input[last()]]
+14:48:46.606 INFO  manager.WDListener - sendKys-->input
+14:48:46.615 INFO  manager.WDListener - sendKys-->input
+14:48:46.647 INFO  manager.WDListener - sendKys-->input
+14:48:46.656 INFO  manager.WDListener - Before click element-->button text = Login
+14:48:47.171 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:47.203 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:47.214 INFO  manager.WDListener - Before click element-->input text = 
+14:48:47.236 INFO  manager.WDListener - After click element-->input text = 
+14:48:47.237 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:47.253 INFO  manager.WDListener - sendKys-->input
+14:48:47.262 INFO  manager.WDListener - sendKys-->input
+14:48:47.271 INFO  manager.WDListener - sendKys-->input
+14:48:47.281 INFO  manager.WDListener - Before click element-->input text = 
+14:48:47.300 INFO  manager.WDListener - After click element-->input text = 
+14:48:47.300 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:47.315 INFO  manager.WDListener - sendKys-->input
+14:48:47.323 INFO  manager.WDListener - sendKys-->input
+14:48:47.332 INFO  manager.WDListener - sendKys-->input
+14:48:47.340 INFO  manager.WDListener - Before click element-->input text = 
+14:48:47.364 INFO  manager.WDListener - After click element-->input text = 
+14:48:47.364 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:47.381 INFO  manager.WDListener - sendKys-->input
+14:48:47.389 INFO  manager.WDListener - sendKys-->input
+14:48:47.401 INFO  manager.WDListener - sendKys-->input
+14:48:47.411 INFO  manager.WDListener - Before click element-->input text = 
+14:48:47.431 INFO  manager.WDListener - After click element-->input text = 
+14:48:47.432 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:47.448 INFO  manager.WDListener - sendKys-->input
+14:48:47.456 INFO  manager.WDListener - sendKys-->input
+14:48:47.468 INFO  manager.WDListener - sendKys-->input
+14:48:47.477 INFO  manager.WDListener - Before click element-->input text = 
+14:48:47.495 INFO  manager.WDListener - After click element-->input text = 
+14:48:47.495 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:47.511 INFO  manager.WDListener - sendKys-->input
+14:48:47.519 INFO  manager.WDListener - sendKys-->input
+14:48:47.529 INFO  manager.WDListener - sendKys-->input
+14:48:47.537 INFO  manager.WDListener - Before click element-->input text = 
+14:48:47.556 INFO  manager.WDListener - After click element-->input text = 
+14:48:47.556 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:47.570 INFO  manager.WDListener - sendKys-->input
+14:48:47.578 INFO  manager.WDListener - sendKys-->input
+14:48:47.586 INFO  manager.WDListener - sendKys-->input
+14:48:47.595 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:47.614 INFO  manager.WDListener - After click element-->b text = Save
+14:48:48.146 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:48.177 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:48.185 INFO  manager.WDListener - Before click element-->input text = 
+14:48:48.206 INFO  manager.WDListener - After click element-->input text = 
+14:48:48.206 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:48.222 INFO  manager.WDListener - sendKys-->input
+14:48:48.230 INFO  manager.WDListener - sendKys-->input
+14:48:48.239 INFO  manager.WDListener - sendKys-->input
+14:48:48.247 INFO  manager.WDListener - Before click element-->input text = 
+14:48:48.266 INFO  manager.WDListener - After click element-->input text = 
+14:48:48.266 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:48.281 INFO  manager.WDListener - sendKys-->input
+14:48:48.289 INFO  manager.WDListener - sendKys-->input
+14:48:48.298 INFO  manager.WDListener - sendKys-->input
+14:48:48.305 INFO  manager.WDListener - Before click element-->input text = 
+14:48:48.324 INFO  manager.WDListener - After click element-->input text = 
+14:48:48.324 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:48.339 INFO  manager.WDListener - sendKys-->input
+14:48:48.347 INFO  manager.WDListener - sendKys-->input
+14:48:48.356 INFO  manager.WDListener - sendKys-->input
+14:48:48.373 INFO  manager.WDListener - Before click element-->input text = 
+14:48:48.390 INFO  manager.WDListener - After click element-->input text = 
+14:48:48.391 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:48.405 INFO  manager.WDListener - sendKys-->input
+14:48:48.413 INFO  manager.WDListener - sendKys-->input
+14:48:48.424 INFO  manager.WDListener - sendKys-->input
+14:48:48.432 INFO  manager.WDListener - Before click element-->input text = 
+14:48:48.450 INFO  manager.WDListener - After click element-->input text = 
+14:48:48.450 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:48.464 INFO  manager.WDListener - sendKys-->input
+14:48:48.471 INFO  manager.WDListener - sendKys-->input
+14:48:48.479 INFO  manager.WDListener - sendKys-->input
+14:48:48.486 INFO  manager.WDListener - Before click element-->input text = 
+14:48:48.506 INFO  manager.WDListener - After click element-->input text = 
+14:48:48.506 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:48.520 INFO  manager.WDListener - sendKys-->input
+14:48:48.527 INFO  manager.WDListener - sendKys-->input
+14:48:48.536 INFO  manager.WDListener - sendKys-->input
+14:48:48.543 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:48.560 INFO  manager.WDListener - After click element-->b text = Save
+14:48:49.093 INFO  manager.WDListener - Before click element-->a text = ADD
+14:48:49.127 INFO  manager.WDListener - After click element-->a text = ADD
+14:48:49.135 INFO  manager.WDListener - Before click element-->input text = 
+14:48:49.159 INFO  manager.WDListener - After click element-->input text = 
+14:48:49.159 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:48:49.175 INFO  manager.WDListener - sendKys-->input
+14:48:49.184 INFO  manager.WDListener - sendKys-->input
+14:48:49.193 INFO  manager.WDListener - sendKys-->input
+14:48:49.200 INFO  manager.WDListener - Before click element-->input text = 
+14:48:49.218 INFO  manager.WDListener - After click element-->input text = 
+14:48:49.218 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:48:49.232 INFO  manager.WDListener - sendKys-->input
+14:48:49.240 INFO  manager.WDListener - sendKys-->input
+14:48:49.249 INFO  manager.WDListener - sendKys-->input
+14:48:49.256 INFO  manager.WDListener - Before click element-->input text = 
+14:48:49.273 INFO  manager.WDListener - After click element-->input text = 
+14:48:49.274 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:48:49.288 INFO  manager.WDListener - sendKys-->input
+14:48:49.296 INFO  manager.WDListener - sendKys-->input
+14:48:49.306 INFO  manager.WDListener - sendKys-->input
+14:48:49.318 INFO  manager.WDListener - Before click element-->input text = 
+14:48:49.360 INFO  manager.WDListener - After click element-->input text = 
+14:48:49.360 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:48:49.375 INFO  manager.WDListener - sendKys-->input
+14:48:49.383 INFO  manager.WDListener - sendKys-->input
+14:48:49.394 INFO  manager.WDListener - sendKys-->input
+14:48:49.402 INFO  manager.WDListener - Before click element-->input text = 
+14:48:49.418 INFO  manager.WDListener - After click element-->input text = 
+14:48:49.418 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:48:49.432 INFO  manager.WDListener - sendKys-->input
+14:48:49.439 INFO  manager.WDListener - sendKys-->input
+14:48:49.447 INFO  manager.WDListener - sendKys-->input
+14:48:49.454 INFO  manager.WDListener - Before click element-->input text = 
+14:48:49.470 INFO  manager.WDListener - After click element-->input text = 
+14:48:49.471 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:48:49.484 INFO  manager.WDListener - sendKys-->input
+14:48:49.491 INFO  manager.WDListener - sendKys-->input
+14:48:49.500 INFO  manager.WDListener - sendKys-->input
+14:48:49.506 INFO  manager.WDListener - Before click element-->b text = Save
+14:48:49.527 INFO  manager.WDListener - After click element-->b text = Save
+14:48:50.033 INFO  manager.TestNGListener - start test-->removeAllContacts
+14:48:50.073 INFO  manager.WDListener - Before click element-->div text = Tony1012
+343434341012
+14:48:50.103 INFO  manager.WDListener - After click element-->div text = Tony1012
+343434341012
+14:48:50.114 INFO  manager.WDListener - Before click element-->button text = Remove
+14:48:50.133 INFO  manager.WDListener - After click element-->button text = Remove
+14:48:51.176 INFO  manager.WDListener - Before click element-->div text = Tony1219
+343434341219
+14:48:51.201 INFO  manager.WDListener - After click element-->div text = Tony1219
+343434341219
+14:48:51.209 INFO  manager.WDListener - Before click element-->button text = Remove
+14:48:51.227 INFO  manager.WDListener - After click element-->button text = Remove
+14:48:52.268 INFO  manager.WDListener - Before click element-->div text = Tony1711
+343434341711
+14:48:52.295 INFO  manager.WDListener - After click element-->div text = Tony1711
+343434341711
+14:48:52.302 INFO  manager.WDListener - Before click element-->button text = Remove
+14:48:52.320 INFO  manager.WDListener - After click element-->button text = Remove
+14:48:53.359 INFO  manager.WDListener - Before click element-->div text = Tony1997
+343434341997
+14:48:53.388 INFO  manager.WDListener - After click element-->div text = Tony1997
+343434341997
+14:48:53.396 INFO  manager.WDListener - Before click element-->button text = Remove
+14:48:53.416 INFO  manager.WDListener - After click element-->button text = Remove
+14:48:54.454 INFO  manager.WDListener - Before click element-->div text = Tony1874
+343434341874
+14:48:54.481 INFO  manager.WDListener - After click element-->div text = Tony1874
+343434341874
+14:48:54.489 INFO  manager.WDListener - Before click element-->button text = Remove
+14:48:54.507 INFO  manager.WDListener - After click element-->button text = Remove
+14:49:00.575 INFO  manager.TestNGListener - start test-->removeAllContacts
+14:49:00.575 INFO  tests.TestBase - Name of method--->removeFirstContact
+14:49:05.652 INFO  manager.WDListener - Before click element-->a text = ADD
+14:49:05.703 INFO  manager.WDListener - After click element-->a text = ADD
+14:49:05.712 INFO  manager.WDListener - Before click element-->input text = 
+14:49:05.734 INFO  manager.WDListener - After click element-->input text = 
+14:49:05.734 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:49:05.752 INFO  manager.WDListener - sendKys-->input
+14:49:05.761 INFO  manager.WDListener - sendKys-->input
+14:49:05.770 INFO  manager.WDListener - sendKys-->input
+14:49:05.778 INFO  manager.WDListener - Before click element-->input text = 
+14:49:05.798 INFO  manager.WDListener - After click element-->input text = 
+14:49:05.799 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:49:05.815 INFO  manager.WDListener - sendKys-->input
+14:49:05.822 INFO  manager.WDListener - sendKys-->input
+14:49:05.831 INFO  manager.WDListener - sendKys-->input
+14:49:05.838 INFO  manager.WDListener - Before click element-->input text = 
+14:49:05.856 INFO  manager.WDListener - After click element-->input text = 
+14:49:05.856 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:49:05.871 INFO  manager.WDListener - sendKys-->input
+14:49:05.880 INFO  manager.WDListener - sendKys-->input
+14:49:05.890 INFO  manager.WDListener - sendKys-->input
+14:49:05.898 INFO  manager.WDListener - Before click element-->input text = 
+14:49:05.917 INFO  manager.WDListener - After click element-->input text = 
+14:49:05.917 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:49:05.932 INFO  manager.WDListener - sendKys-->input
+14:49:05.939 INFO  manager.WDListener - sendKys-->input
+14:49:05.951 INFO  manager.WDListener - sendKys-->input
+14:49:05.958 INFO  manager.WDListener - Before click element-->input text = 
+14:49:05.977 INFO  manager.WDListener - After click element-->input text = 
+14:49:05.977 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:49:05.991 INFO  manager.WDListener - sendKys-->input
+14:49:05.998 INFO  manager.WDListener - sendKys-->input
+14:49:06.006 INFO  manager.WDListener - sendKys-->input
+14:49:06.013 INFO  manager.WDListener - Before click element-->input text = 
+14:49:06.029 INFO  manager.WDListener - After click element-->input text = 
+14:49:06.029 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:49:06.044 INFO  manager.WDListener - sendKys-->input
+14:49:06.051 INFO  manager.WDListener - sendKys-->input
+14:49:06.059 INFO  manager.WDListener - sendKys-->input
+14:49:06.065 INFO  manager.WDListener - Before click element-->b text = Save
+14:49:06.081 INFO  manager.WDListener - After click element-->b text = Save
+14:49:06.610 INFO  manager.WDListener - Before click element-->a text = ADD
+14:49:06.644 INFO  manager.WDListener - After click element-->a text = ADD
+14:49:06.652 INFO  manager.WDListener - Before click element-->input text = 
+14:49:06.676 INFO  manager.WDListener - After click element-->input text = 
+14:49:06.676 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:49:06.692 INFO  manager.WDListener - sendKys-->input
+14:49:06.701 INFO  manager.WDListener - sendKys-->input
+14:49:06.710 INFO  manager.WDListener - sendKys-->input
+14:49:06.717 INFO  manager.WDListener - Before click element-->input text = 
+14:49:06.735 INFO  manager.WDListener - After click element-->input text = 
+14:49:06.735 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:49:06.750 INFO  manager.WDListener - sendKys-->input
+14:49:06.758 INFO  manager.WDListener - sendKys-->input
+14:49:06.767 INFO  manager.WDListener - sendKys-->input
+14:49:06.774 INFO  manager.WDListener - Before click element-->input text = 
+14:49:06.792 INFO  manager.WDListener - After click element-->input text = 
+14:49:06.792 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:49:06.807 INFO  manager.WDListener - sendKys-->input
+14:49:06.815 INFO  manager.WDListener - sendKys-->input
+14:49:06.825 INFO  manager.WDListener - sendKys-->input
+14:49:06.833 INFO  manager.WDListener - Before click element-->input text = 
+14:49:06.853 INFO  manager.WDListener - After click element-->input text = 
+14:49:06.853 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:49:06.870 INFO  manager.WDListener - sendKys-->input
+14:49:06.879 INFO  manager.WDListener - sendKys-->input
+14:49:06.890 INFO  manager.WDListener - sendKys-->input
+14:49:06.897 INFO  manager.WDListener - Before click element-->input text = 
+14:49:06.914 INFO  manager.WDListener - After click element-->input text = 
+14:49:06.915 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:49:06.929 INFO  manager.WDListener - sendKys-->input
+14:49:06.936 INFO  manager.WDListener - sendKys-->input
+14:49:06.945 INFO  manager.WDListener - sendKys-->input
+14:49:06.951 INFO  manager.WDListener - Before click element-->input text = 
+14:49:06.975 INFO  manager.WDListener - After click element-->input text = 
+14:49:06.975 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:49:06.988 INFO  manager.WDListener - sendKys-->input
+14:49:06.996 INFO  manager.WDListener - sendKys-->input
+14:49:07.010 INFO  manager.WDListener - sendKys-->input
+14:49:07.017 INFO  manager.WDListener - Before click element-->b text = Save
+14:49:07.033 INFO  manager.WDListener - After click element-->b text = Save
+14:49:07.564 INFO  manager.WDListener - Before click element-->a text = ADD
+14:49:07.595 INFO  manager.WDListener - After click element-->a text = ADD
+14:49:07.603 INFO  manager.WDListener - Before click element-->input text = 
+14:49:07.626 INFO  manager.WDListener - After click element-->input text = 
+14:49:07.626 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Name']]
+14:49:07.642 INFO  manager.WDListener - sendKys-->input
+14:49:07.650 INFO  manager.WDListener - sendKys-->input
+14:49:07.659 INFO  manager.WDListener - sendKys-->input
+14:49:07.667 INFO  manager.WDListener - Before click element-->input text = 
+14:49:07.685 INFO  manager.WDListener - After click element-->input text = 
+14:49:07.686 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Last Name']]
+14:49:07.700 INFO  manager.WDListener - sendKys-->input
+14:49:07.708 INFO  manager.WDListener - sendKys-->input
+14:49:07.717 INFO  manager.WDListener - sendKys-->input
+14:49:07.724 INFO  manager.WDListener - Before click element-->input text = 
+14:49:07.742 INFO  manager.WDListener - After click element-->input text = 
+14:49:07.742 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Phone']]
+14:49:07.757 INFO  manager.WDListener - sendKys-->input
+14:49:07.765 INFO  manager.WDListener - sendKys-->input
+14:49:07.774 INFO  manager.WDListener - sendKys-->input
+14:49:07.782 INFO  manager.WDListener - Before click element-->input text = 
+14:49:07.802 INFO  manager.WDListener - After click element-->input text = 
+14:49:07.802 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='email']]
+14:49:07.819 INFO  manager.WDListener - sendKys-->input
+14:49:07.827 INFO  manager.WDListener - sendKys-->input
+14:49:07.838 INFO  manager.WDListener - sendKys-->input
+14:49:07.846 INFO  manager.WDListener - Before click element-->input text = 
+14:49:07.863 INFO  manager.WDListener - After click element-->input text = 
+14:49:07.863 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='Address']]
+14:49:07.877 INFO  manager.WDListener - sendKys-->input
+14:49:07.884 INFO  manager.WDListener - sendKys-->input
+14:49:07.892 INFO  manager.WDListener - sendKys-->input
+14:49:07.899 INFO  manager.WDListener - Before click element-->input text = 
+14:49:07.916 INFO  manager.WDListener - After click element-->input text = 
+14:49:07.916 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (b19e54cba7317609120ef498142adedf)] -> css selector: [placeholder='description']]
+14:49:07.930 INFO  manager.WDListener - sendKys-->input
+14:49:07.937 INFO  manager.WDListener - sendKys-->input
+14:49:07.946 INFO  manager.WDListener - sendKys-->input
+14:49:07.953 INFO  manager.WDListener - Before click element-->b text = Save
+14:49:07.969 INFO  manager.WDListener - After click element-->b text = Save
+14:49:08.475 INFO  manager.TestNGListener - start test-->removeFirstContact
+14:49:08.497 INFO  manager.HelperBase - Number of Contacts before remove --->3
+14:49:08.512 INFO  manager.WDListener - Before click element-->div text = Tony1541
+343434341541
+14:49:08.537 INFO  manager.WDListener - After click element-->div text = Tony1541
+343434341541
+14:49:08.545 INFO  manager.WDListener - Before click element-->button text = Remove
+14:49:08.563 INFO  manager.WDListener - After click element-->button text = Remove
+14:49:09.587 INFO  manager.HelperBase - Number of Contacts before remove --->2
+14:49:09.588 INFO  manager.TestNGListener - start test-->removeFirstContact
+14:49:09.592 INFO  manager.TestNGListener - start test-->Tue Mar 11 14:49:09 IST 2025

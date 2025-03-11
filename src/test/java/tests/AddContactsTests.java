@@ -49,7 +49,7 @@ public class AddContactsTests extends TestBase {
         logger.info("Tests run with data: --->" + contact.toString());
         app.getHelperContact().openContactForm();
         app.getHelperContact().fillContactForm(contact);
-        // app.getHelperContact().pause(15000);
+         app.getHelperContact().pause(5000);
         app.getHelperContact().getScreen("src/test/screenshots/screen-" + i +".png");
         app.getHelperContact().saveContact();
         Assert.assertTrue(app.getHelperContact().isContactAddedByName(contact.getName()));

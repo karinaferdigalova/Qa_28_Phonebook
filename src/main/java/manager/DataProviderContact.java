@@ -99,7 +99,7 @@ public class DataProviderContact {
     public Iterator<Object[]> contactCSV() throws IOException {
         List<Object[]> list = new ArrayList<>();
         BufferedReader reader = new BufferedReader
-                (new FileReader(new File("src/test/resources/contact.csv")));
+                 (new FileReader(new File("src/test/resources/contact.csv")));
         String line = reader.readLine();
         while (line !=null){
             String[] all = line.split(",");//["Harry"]["Potter"]["harry@maiil.com"]["123654789654"]["NY"]["move"]
