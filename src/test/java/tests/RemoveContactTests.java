@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class RemoveContactTests extends TestBase {
-    @BeforeMethod
+    @BeforeMethod (alwaysRun = true)
     public void preCondition() {
         if (!app.getHelperUser().isLogged()) {
             app.getHelperUser().login(new User().withEmail("margo@gmail.com").withPassword("Mmar123456$"));
@@ -22,7 +22,7 @@ public class RemoveContactTests extends TestBase {
     }
 
 
-    @Test
+    @Test(groups ={ "smoke"})
     public void removeFirstContact() {
         Assert.assertEquals(app.getHelperContact().removeOneContact(), 1);
 

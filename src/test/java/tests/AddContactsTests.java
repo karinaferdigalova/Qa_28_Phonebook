@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class AddContactsTests extends TestBase {
 
-    @BeforeMethod
+    @BeforeMethod (alwaysRun = true)
     public void preCondition() {
         if (!app.getHelperUser().isLogged()) {
             app.getHelperUser().login(new User().setEmail("karinmc9@mail.ru").setPassword("Rfhbyrf29$"));
@@ -57,7 +57,7 @@ public class AddContactsTests extends TestBase {
     }
 
 
-    @Test
+    @Test(groups ={ "smoke","regress","retest"})
         public void addContactSuccessReqFields() {
             int i = (int) ((System.currentTimeMillis() / 1000) % 3600);
 

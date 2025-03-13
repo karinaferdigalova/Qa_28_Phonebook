@@ -1,0 +1,389 @@
+11:38:07.715 INFO  manager.ApplicationManager - All tests rus in Firefox Browser
+11:38:09.211 INFO  manager.ApplicationManager - All tests rus in Chrome Browser
+11:38:10.176 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+11:38:10.187 INFO  manager.TestNGListener - start test-->Thu Mar 13 11:38:10 IST 2025
+11:38:10.199 INFO  tests.TestBase - Name of method--->loginSuccess
+11:38:15.228 INFO  tests.TestBase - Before method finished logout
+11:38:15.231 INFO  manager.TestNGListener - start test-->loginSuccess
+11:38:15.231 INFO  tests.TestBase - Start test with name 'loginSuccess'
+11:38:15.265 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:15.302 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:15.302 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:15.322 INFO  manager.WDListener - Before click element-->input text = 
+11:38:15.370 INFO  manager.WDListener - After click element-->input text = 
+11:38:15.370 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:15.474 INFO  manager.WDListener - sendKys-->input
+11:38:15.488 INFO  manager.WDListener - sendKys-->input
+11:38:15.503 INFO  manager.WDListener - sendKys-->input
+11:38:15.503 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+11:38:15.517 INFO  manager.WDListener - Before click element-->input text = 
+11:38:15.537 INFO  manager.WDListener - After click element-->input text = 
+11:38:15.537 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:15.553 INFO  manager.WDListener - sendKys-->input
+11:38:15.562 INFO  manager.WDListener - sendKys-->input
+11:38:15.573 INFO  manager.WDListener - sendKys-->input
+11:38:15.573 INFO  tests.TestBase - Test data --> email: margo@gmail.com & password: Mmar123456$
+11:38:15.585 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:16.561 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+11:38:16.562 INFO  manager.TestNGListener - start test-->loginSuccess
+11:38:16.562 INFO  tests.TestBase - Name of method--->loginSuccess
+11:38:16.586 INFO  manager.WDListener - Before click element-->button text = Sign Out
+11:38:16.609 INFO  tests.TestBase - Before method finished logout
+11:38:16.610 INFO  manager.TestNGListener - start test-->loginSuccess
+11:38:16.610 INFO  tests.TestBase - Start test with name 'loginSuccess'
+11:38:16.621 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:16.642 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:16.642 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:16.653 INFO  manager.WDListener - Before click element-->input text = 
+11:38:16.680 INFO  manager.WDListener - After click element-->input text = 
+11:38:16.680 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:16.712 INFO  manager.WDListener - sendKys-->input
+11:38:16.721 INFO  manager.WDListener - sendKys-->input
+11:38:16.733 INFO  manager.WDListener - sendKys-->input
+11:38:16.733 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+11:38:16.744 INFO  manager.WDListener - Before click element-->input text = 
+11:38:16.767 INFO  manager.WDListener - After click element-->input text = 
+11:38:16.768 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:16.790 INFO  manager.WDListener - sendKys-->input
+11:38:16.799 INFO  manager.WDListener - sendKys-->input
+11:38:16.824 INFO  manager.WDListener - sendKys-->input
+11:38:16.824 INFO  tests.TestBase - Test data --> email: mara@gmail.com & password: Mmar123456$
+11:38:16.834 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:17.154 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+11:38:17.155 INFO  manager.TestNGListener - start test-->loginSuccess
+11:38:17.156 INFO  tests.TestBase - Name of method--->loginSuccess
+11:38:17.178 INFO  manager.WDListener - Before click element-->button text = Sign Out
+11:38:17.202 INFO  tests.TestBase - Before method finished logout
+11:38:17.202 INFO  manager.TestNGListener - start test-->loginSuccess
+11:38:17.202 INFO  tests.TestBase - Start test with name 'loginSuccess'
+11:38:17.213 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:17.233 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:17.233 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:17.243 INFO  manager.WDListener - Before click element-->input text = 
+11:38:17.267 INFO  manager.WDListener - After click element-->input text = 
+11:38:17.267 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:17.286 INFO  manager.WDListener - sendKys-->input
+11:38:17.296 INFO  manager.WDListener - sendKys-->input
+11:38:17.308 INFO  manager.WDListener - sendKys-->input
+11:38:17.308 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+11:38:17.318 INFO  manager.WDListener - Before click element-->input text = 
+11:38:17.340 INFO  manager.WDListener - After click element-->input text = 
+11:38:17.340 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:17.364 INFO  manager.WDListener - sendKys-->input
+11:38:17.373 INFO  manager.WDListener - sendKys-->input
+11:38:17.383 INFO  manager.WDListener - sendKys-->input
+11:38:17.383 INFO  tests.TestBase - Test data --> email: sonya@gmail.com & password: Ss12345$
+11:38:17.395 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:17.704 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+11:38:17.704 INFO  manager.TestNGListener - start test-->loginSuccess
+11:38:17.705 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+11:38:17.723 INFO  manager.WDListener - Before click element-->button text = Sign Out
+11:38:17.744 INFO  tests.TestBase - Before method finished logout
+11:38:17.744 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+11:38:17.744 INFO  tests.TestBase - Test data-->User{email='margo@gmail.com', password='Mmar123456$'}
+11:38:17.756 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:17.777 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:17.777 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:17.786 INFO  manager.WDListener - Before click element-->input text = 
+11:38:17.808 INFO  manager.WDListener - After click element-->input text = 
+11:38:17.808 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:17.828 INFO  manager.WDListener - sendKys-->input
+11:38:17.837 INFO  manager.WDListener - sendKys-->input
+11:38:17.862 INFO  manager.WDListener - sendKys-->input
+11:38:17.871 INFO  manager.WDListener - Before click element-->input text = 
+11:38:17.891 INFO  manager.WDListener - After click element-->input text = 
+11:38:17.891 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:17.914 INFO  manager.WDListener - sendKys-->input
+11:38:17.923 INFO  manager.WDListener - sendKys-->input
+11:38:17.944 INFO  manager.WDListener - sendKys-->input
+11:38:17.953 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:18.270 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+11:38:18.270 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+11:38:18.294 INFO  manager.WDListener - Before click element-->button text = Sign Out
+11:38:18.315 INFO  tests.TestBase - Before method finished logout
+11:38:18.316 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+11:38:18.316 INFO  tests.TestBase - Test data-->User{email='mara@gmail.com', password='Mmar123456$'}
+11:38:18.325 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:18.344 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:18.344 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:18.354 INFO  manager.WDListener - Before click element-->input text = 
+11:38:18.376 INFO  manager.WDListener - After click element-->input text = 
+11:38:18.377 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:18.396 INFO  manager.WDListener - sendKys-->input
+11:38:18.404 INFO  manager.WDListener - sendKys-->input
+11:38:18.427 INFO  manager.WDListener - sendKys-->input
+11:38:18.436 INFO  manager.WDListener - Before click element-->input text = 
+11:38:18.456 INFO  manager.WDListener - After click element-->input text = 
+11:38:18.456 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:18.479 INFO  manager.WDListener - sendKys-->input
+11:38:18.488 INFO  manager.WDListener - sendKys-->input
+11:38:18.497 INFO  manager.WDListener - sendKys-->input
+11:38:18.506 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:18.816 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+11:38:18.817 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+11:38:18.836 INFO  manager.WDListener - Before click element-->button text = Sign Out
+11:38:18.859 INFO  tests.TestBase - Before method finished logout
+11:38:18.859 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+11:38:18.859 INFO  tests.TestBase - Test data-->User{email='sonya@gmail.com', password='Ss12345$'}
+11:38:18.868 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:18.887 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:18.887 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:18.896 INFO  manager.WDListener - Before click element-->input text = 
+11:38:18.925 INFO  manager.WDListener - After click element-->input text = 
+11:38:18.925 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:18.943 INFO  manager.WDListener - sendKys-->input
+11:38:18.951 INFO  manager.WDListener - sendKys-->input
+11:38:18.978 INFO  manager.WDListener - sendKys-->input
+11:38:18.986 INFO  manager.WDListener - Before click element-->input text = 
+11:38:19.007 INFO  manager.WDListener - After click element-->input text = 
+11:38:19.007 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:19.031 INFO  manager.WDListener - sendKys-->input
+11:38:19.039 INFO  manager.WDListener - sendKys-->input
+11:38:19.049 INFO  manager.WDListener - sendKys-->input
+11:38:19.058 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:19.360 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+11:38:19.361 INFO  tests.TestBase - Name of method--->loginUnregisteredUser
+11:38:19.378 INFO  manager.WDListener - Before click element-->button text = Sign Out
+11:38:19.402 INFO  tests.TestBase - Before method finished logout
+11:38:19.402 INFO  manager.TestNGListener - start test-->loginUnregisteredUser
+11:38:19.402 INFO  tests.TestBase - Test data --> email: 'maaa@gmail.com' & password: 'Maa123456$'
+11:38:19.411 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:19.431 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:19.431 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:19.441 INFO  manager.WDListener - Before click element-->input text = 
+11:38:19.467 INFO  manager.WDListener - After click element-->input text = 
+11:38:19.467 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:19.488 INFO  manager.WDListener - sendKys-->input
+11:38:19.496 INFO  manager.WDListener - sendKys-->input
+11:38:19.508 INFO  manager.WDListener - sendKys-->input
+11:38:19.508 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+11:38:19.516 INFO  manager.WDListener - Before click element-->input text = 
+11:38:19.538 INFO  manager.WDListener - After click element-->input text = 
+11:38:19.538 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:19.558 INFO  manager.WDListener - sendKys-->input
+11:38:19.567 INFO  manager.WDListener - sendKys-->input
+11:38:19.579 INFO  manager.WDListener - sendKys-->input
+11:38:19.588 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:19.609 INFO  manager.WDListener - We have a problem
+11:38:19.609 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@68b11545
+11:38:19.609 INFO  manager.WDListener - *****************
+11:38:19.609 INFO  manager.WDListener - Method name-->alert
+11:38:19.609 INFO  manager.WDListener - *****************
+11:38:19.609 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3bdf0bf69439af32410b948317e44312, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49648/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3bdf0bf69439af32410b948317e44312
+11:38:19.609 INFO  manager.WDListener - *****************
+11:38:19.609 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1657 .png
+11:38:20.128 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+11:38:20.128 INFO  manager.TestNGListener - start test-->loginUnregisteredUser
+11:38:20.129 INFO  tests.TestBase - Name of method--->loginWrongEmail
+11:38:25.188 INFO  tests.TestBase - Before method finished logout
+11:38:25.191 INFO  manager.TestNGListener - start test-->loginWrongEmail
+11:38:25.192 INFO  tests.TestBase - Test data --> email: 'karinmc9mail.ru' & password: 'Rfhbyrf29$'
+11:38:25.215 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:25.243 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:25.243 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:25.254 INFO  manager.WDListener - Before click element-->input text = 
+11:38:25.279 INFO  manager.WDListener - After click element-->input text = 
+11:38:25.279 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:25.305 INFO  manager.WDListener - sendKys-->input
+11:38:25.315 INFO  manager.WDListener - sendKys-->input
+11:38:25.328 INFO  manager.WDListener - sendKys-->input
+11:38:25.328 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+11:38:25.336 INFO  manager.WDListener - Before click element-->input text = 
+11:38:25.358 INFO  manager.WDListener - After click element-->input text = 
+11:38:25.359 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:25.379 INFO  manager.WDListener - sendKys-->input
+11:38:25.389 INFO  manager.WDListener - sendKys-->input
+11:38:25.399 INFO  manager.WDListener - sendKys-->input
+11:38:25.407 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:25.425 INFO  manager.WDListener - We have a problem
+11:38:25.426 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@2c30c81d
+11:38:25.426 INFO  manager.WDListener - *****************
+11:38:25.426 INFO  manager.WDListener - Method name-->alert
+11:38:25.426 INFO  manager.WDListener - *****************
+11:38:25.426 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3bdf0bf69439af32410b948317e44312, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49648/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3bdf0bf69439af32410b948317e44312
+11:38:25.426 INFO  manager.WDListener - *****************
+11:38:25.426 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1061 .png
+11:38:25.944 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+11:38:25.945 INFO  manager.TestNGListener - start test-->loginWrongEmail
+11:38:25.946 INFO  tests.TestBase - Name of method--->loginWrongPassword
+11:38:31.005 INFO  tests.TestBase - Before method finished logout
+11:38:31.008 INFO  manager.TestNGListener - start test-->loginWrongPassword
+11:38:31.008 INFO  tests.TestBase - Test data --> email: 'karinmc9@mail.ru' & password: 'Rfhbyrf29'
+11:38:31.030 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:31.058 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:31.058 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:31.080 INFO  manager.WDListener - Before click element-->input text = 
+11:38:31.107 INFO  manager.WDListener - After click element-->input text = 
+11:38:31.107 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:31.130 INFO  manager.WDListener - sendKys-->input
+11:38:31.138 INFO  manager.WDListener - sendKys-->input
+11:38:31.152 INFO  manager.WDListener - sendKys-->input
+11:38:31.152 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+11:38:31.162 INFO  manager.WDListener - Before click element-->input text = 
+11:38:31.182 INFO  manager.WDListener - After click element-->input text = 
+11:38:31.182 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:31.201 INFO  manager.WDListener - sendKys-->input
+11:38:31.209 INFO  manager.WDListener - sendKys-->input
+11:38:31.223 INFO  manager.WDListener - sendKys-->input
+11:38:31.237 INFO  manager.WDListener - Before click element-->button text = Login
+11:38:31.256 INFO  manager.WDListener - We have a problem
+11:38:31.256 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@b14b60a
+11:38:31.256 INFO  manager.WDListener - *****************
+11:38:31.256 INFO  manager.WDListener - Method name-->alert
+11:38:31.256 INFO  manager.WDListener - *****************
+11:38:31.256 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3bdf0bf69439af32410b948317e44312, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49648/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3bdf0bf69439af32410b948317e44312
+11:38:31.256 INFO  manager.WDListener - *****************
+11:38:31.256 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1491 .png
+11:38:31.778 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+11:38:31.778 INFO  manager.TestNGListener - start test-->loginWrongPassword
+11:38:31.787 INFO  tests.TestBase - Name of method--->registrationExistsUser
+11:38:36.827 INFO  manager.TestNGListener - start test-->registrationExistsUser
+11:38:36.828 INFO  tests.TestBase - Tests run with data: --->User{email='mara@gmail.com', password='Mmar123456$'}
+11:38:36.839 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:36.862 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:36.862 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:36.871 INFO  manager.WDListener - Before click element-->input text = 
+11:38:36.892 INFO  manager.WDListener - After click element-->input text = 
+11:38:36.892 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:36.914 INFO  manager.WDListener - sendKys-->input
+11:38:36.923 INFO  manager.WDListener - sendKys-->input
+11:38:36.935 INFO  manager.WDListener - sendKys-->input
+11:38:36.945 INFO  manager.WDListener - Before click element-->input text = 
+11:38:36.967 INFO  manager.WDListener - After click element-->input text = 
+11:38:36.968 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:37.004 INFO  manager.WDListener - sendKys-->input
+11:38:37.015 INFO  manager.WDListener - sendKys-->input
+11:38:37.043 INFO  manager.WDListener - sendKys-->input
+11:38:37.054 INFO  manager.WDListener - Before click element-->button text = Registration
+11:38:37.074 INFO  manager.WDListener - We have a problem
+11:38:37.074 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@33d7765a
+11:38:37.075 INFO  manager.WDListener - *****************
+11:38:37.075 INFO  manager.WDListener - Method name-->alert
+11:38:37.075 INFO  manager.WDListener - *****************
+11:38:37.075 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3bdf0bf69439af32410b948317e44312, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49648/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3bdf0bf69439af32410b948317e44312
+11:38:37.075 INFO  manager.WDListener - *****************
+11:38:37.075 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1333 .png
+11:38:37.599 INFO  manager.TestNGListener - start test-->registrationExistsUser
+11:38:37.600 INFO  tests.TestBase - Name of method--->registrationSuccess
+11:38:42.656 INFO  manager.TestNGListener - start test-->registrationSuccess
+11:38:42.657 INFO  tests.TestBase - Tests run with data: --->User{email='don2322@gmail.com', password='Ddon123456$'}
+11:38:42.678 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:42.705 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:42.705 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:42.705 INFO  tests.TestBase - openRegistrationForm invoked
+11:38:42.714 INFO  manager.WDListener - Before click element-->input text = 
+11:38:42.738 INFO  manager.WDListener - After click element-->input text = 
+11:38:42.739 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:42.759 INFO  manager.WDListener - sendKys-->input
+11:38:42.767 INFO  manager.WDListener - sendKys-->input
+11:38:42.780 INFO  manager.WDListener - sendKys-->input
+11:38:42.789 INFO  manager.WDListener - Before click element-->input text = 
+11:38:42.809 INFO  manager.WDListener - After click element-->input text = 
+11:38:42.809 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:42.829 INFO  manager.WDListener - sendKys-->input
+11:38:42.836 INFO  manager.WDListener - sendKys-->input
+11:38:42.846 INFO  manager.WDListener - sendKys-->input
+11:38:42.846 INFO  tests.TestBase - fillRegistrationForm invoked
+11:38:42.855 INFO  manager.WDListener - Before click element-->button text = Registration
+11:38:42.871 INFO  tests.TestBase - submitLogin invoked
+11:38:43.417 INFO  manager.TestNGListener - start test-->registrationSuccess
+11:38:43.418 INFO  tests.TestBase - Name of method--->registrationWrongEmail
+11:38:43.435 INFO  manager.WDListener - Before click element-->button text = Sign Out
+11:38:43.458 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+11:38:43.458 INFO  tests.TestBase - Tests run with data: --->User{email='dongmail.com', password='Ddon123456$'}
+11:38:43.468 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:43.487 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:43.487 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:43.496 INFO  manager.WDListener - Before click element-->input text = 
+11:38:43.523 INFO  manager.WDListener - After click element-->input text = 
+11:38:43.523 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:43.544 INFO  manager.WDListener - sendKys-->input
+11:38:43.554 INFO  manager.WDListener - sendKys-->input
+11:38:43.566 INFO  manager.WDListener - sendKys-->input
+11:38:43.576 INFO  manager.WDListener - Before click element-->input text = 
+11:38:43.597 INFO  manager.WDListener - After click element-->input text = 
+11:38:43.597 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:43.624 INFO  manager.WDListener - sendKys-->input
+11:38:43.634 INFO  manager.WDListener - sendKys-->input
+11:38:43.644 INFO  manager.WDListener - sendKys-->input
+11:38:43.652 INFO  manager.WDListener - Before click element-->button text = Registration
+11:38:43.673 INFO  manager.WDListener - We have a problem
+11:38:43.673 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@279126f5
+11:38:43.673 INFO  manager.WDListener - *****************
+11:38:43.673 INFO  manager.WDListener - Method name-->alert
+11:38:43.673 INFO  manager.WDListener - *****************
+11:38:43.673 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3bdf0bf69439af32410b948317e44312, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49648/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3bdf0bf69439af32410b948317e44312
+11:38:43.673 INFO  manager.WDListener - *****************
+11:38:43.673 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1598 .png
+11:38:44.195 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+11:38:44.196 INFO  tests.TestBase - Name of method--->registrationWrongPassword
+11:38:49.258 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+11:38:49.259 INFO  tests.TestBase - Tests run with data: --->User{email='don@gmail.com', password='Ddon123'}
+11:38:49.279 INFO  manager.WDListener - Before click element-->a text = LOGIN
+11:38:49.308 INFO  manager.WDListener - After click element-->a text = LOGIN
+11:38:49.308 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+11:38:49.316 INFO  manager.WDListener - Before click element-->input text = 
+11:38:49.337 INFO  manager.WDListener - After click element-->input text = 
+11:38:49.337 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> name: email]
+11:38:49.358 INFO  manager.WDListener - sendKys-->input
+11:38:49.366 INFO  manager.WDListener - sendKys-->input
+11:38:49.377 INFO  manager.WDListener - sendKys-->input
+11:38:49.385 INFO  manager.WDListener - Before click element-->input text = 
+11:38:49.403 INFO  manager.WDListener - After click element-->input text = 
+11:38:49.403 INFO  manager.WDListener - clearElement[[ChromeDriver: chrome on mac (3bdf0bf69439af32410b948317e44312)] -> xpath: //input[last()]]
+11:38:49.422 INFO  manager.WDListener - sendKys-->input
+11:38:49.430 INFO  manager.WDListener - sendKys-->input
+11:38:49.441 INFO  manager.WDListener - sendKys-->input
+11:38:49.448 INFO  manager.WDListener - Before click element-->button text = Registration
+11:38:49.472 INFO  manager.WDListener - We have a problem
+11:38:49.472 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7eaa2bc6
+11:38:49.472 INFO  manager.WDListener - *****************
+11:38:49.472 INFO  manager.WDListener - Method name-->alert
+11:38:49.472 INFO  manager.WDListener - *****************
+11:38:49.472 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3bdf0bf69439af32410b948317e44312, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.45 (17bb6c858e81..., userDataDir: /var/folders/_x/cttlr1nx3g3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49648/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3bdf0bf69439af32410b948317e44312
+11:38:49.472 INFO  manager.WDListener - *****************
+11:38:49.472 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1438 .png
+11:38:49.996 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+11:38:50.000 INFO  manager.TestNGListener - start test-->Thu Mar 13 11:38:49 IST 2025
