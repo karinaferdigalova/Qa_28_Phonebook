@@ -1,0 +1,896 @@
+14:09:30.520 INFO  manager.ApplicationManager - All tests rus in FIREFOX Browser
+14:09:31.309 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+14:09:31.318 INFO  manager.TestNGListener - start test-->Thu Mar 13 14:09:31 IST 2025
+14:09:31.329 INFO  tests.TestBase - Name of method--->loginSuccess
+14:09:36.358 INFO  tests.TestBase - Before method finished logout
+14:09:36.361 INFO  manager.TestNGListener - start test-->loginSuccess
+14:09:36.362 INFO  tests.TestBase - Start test with name 'loginSuccess'
+14:09:36.393 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:36.638 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:36.638 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:36.655 INFO  manager.WDListener - Before click element-->input text = 
+14:09:36.916 INFO  manager.WDListener - After click element-->input text = 
+14:09:36.917 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:36.948 INFO  manager.WDListener - sendKys-->input
+14:09:36.960 INFO  manager.WDListener - sendKys-->input
+14:09:36.975 INFO  manager.WDListener - sendKys-->input
+14:09:36.976 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:09:36.988 INFO  manager.WDListener - Before click element-->input text = 
+14:09:37.202 INFO  manager.WDListener - After click element-->input text = 
+14:09:37.202 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:37.207 INFO  manager.WDListener - sendKys-->input
+14:09:37.210 INFO  manager.WDListener - sendKys-->input
+14:09:37.218 INFO  manager.WDListener - sendKys-->input
+14:09:37.218 INFO  tests.TestBase - Test data --> email: margo@gmail.com & password: Mmar123456$
+14:09:37.228 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:38.259 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+14:09:38.261 INFO  manager.TestNGListener - start test-->loginSuccess
+14:09:38.262 INFO  tests.TestBase - Name of method--->loginSuccess
+14:09:38.284 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:09:38.516 INFO  tests.TestBase - Before method finished logout
+14:09:38.516 INFO  manager.TestNGListener - start test-->loginSuccess
+14:09:38.516 INFO  tests.TestBase - Start test with name 'loginSuccess'
+14:09:38.527 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:38.773 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:38.774 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:38.789 INFO  manager.WDListener - Before click element-->input text = 
+14:09:39.019 INFO  manager.WDListener - After click element-->input text = 
+14:09:39.020 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:39.033 INFO  manager.WDListener - sendKys-->input
+14:09:39.038 INFO  manager.WDListener - sendKys-->input
+14:09:39.045 INFO  manager.WDListener - sendKys-->input
+14:09:39.045 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:09:39.057 INFO  manager.WDListener - Before click element-->input text = 
+14:09:39.284 INFO  manager.WDListener - After click element-->input text = 
+14:09:39.285 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:39.301 INFO  manager.WDListener - sendKys-->input
+14:09:39.308 INFO  manager.WDListener - sendKys-->input
+14:09:39.315 INFO  manager.WDListener - sendKys-->input
+14:09:39.315 INFO  tests.TestBase - Test data --> email: mara@gmail.com & password: Mmar123456$
+14:09:39.325 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:39.605 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+14:09:39.606 INFO  manager.TestNGListener - start test-->loginSuccess
+14:09:39.606 INFO  tests.TestBase - Name of method--->loginSuccess
+14:09:39.626 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:09:39.845 INFO  tests.TestBase - Before method finished logout
+14:09:39.846 INFO  manager.TestNGListener - start test-->loginSuccess
+14:09:39.847 INFO  tests.TestBase - Start test with name 'loginSuccess'
+14:09:39.861 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:40.092 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:40.093 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:40.108 INFO  manager.WDListener - Before click element-->input text = 
+14:09:40.339 INFO  manager.WDListener - After click element-->input text = 
+14:09:40.339 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:40.349 INFO  manager.WDListener - sendKys-->input
+14:09:40.355 INFO  manager.WDListener - sendKys-->input
+14:09:40.362 INFO  manager.WDListener - sendKys-->input
+14:09:40.362 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:09:40.372 INFO  manager.WDListener - Before click element-->input text = 
+14:09:40.604 INFO  manager.WDListener - After click element-->input text = 
+14:09:40.605 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:40.614 INFO  manager.WDListener - sendKys-->input
+14:09:40.618 INFO  manager.WDListener - sendKys-->input
+14:09:40.622 INFO  manager.WDListener - sendKys-->input
+14:09:40.622 INFO  tests.TestBase - Test data --> email: sonya@gmail.com & password: Ss12345$
+14:09:40.632 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:40.908 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+14:09:40.909 INFO  manager.TestNGListener - start test-->loginSuccess
+14:09:40.911 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+14:09:40.927 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:09:41.144 INFO  tests.TestBase - Before method finished logout
+14:09:41.145 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:09:41.146 INFO  tests.TestBase - Test data-->User{email='margo@gmail.com', password='Mmar123456$'}
+14:09:41.161 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:41.392 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:41.393 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:41.406 INFO  manager.WDListener - Before click element-->input text = 
+14:09:41.660 INFO  manager.WDListener - After click element-->input text = 
+14:09:41.660 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:41.671 INFO  manager.WDListener - sendKys-->input
+14:09:41.677 INFO  manager.WDListener - sendKys-->input
+14:09:41.685 INFO  manager.WDListener - sendKys-->input
+14:09:41.694 INFO  manager.WDListener - Before click element-->input text = 
+14:09:41.924 INFO  manager.WDListener - After click element-->input text = 
+14:09:41.925 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:41.939 INFO  manager.WDListener - sendKys-->input
+14:09:41.943 INFO  manager.WDListener - sendKys-->input
+14:09:41.950 INFO  manager.WDListener - sendKys-->input
+14:09:41.960 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:42.224 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:09:42.225 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+14:09:42.240 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:09:42.456 INFO  tests.TestBase - Before method finished logout
+14:09:42.457 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:09:42.457 INFO  tests.TestBase - Test data-->User{email='mara@gmail.com', password='Mmar123456$'}
+14:09:42.472 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:42.693 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:42.694 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:42.707 INFO  manager.WDListener - Before click element-->input text = 
+14:09:42.934 INFO  manager.WDListener - After click element-->input text = 
+14:09:42.935 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:42.945 INFO  manager.WDListener - sendKys-->input
+14:09:42.951 INFO  manager.WDListener - sendKys-->input
+14:09:42.958 INFO  manager.WDListener - sendKys-->input
+14:09:42.967 INFO  manager.WDListener - Before click element-->input text = 
+14:09:43.193 INFO  manager.WDListener - After click element-->input text = 
+14:09:43.193 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:43.207 INFO  manager.WDListener - sendKys-->input
+14:09:43.212 INFO  manager.WDListener - sendKys-->input
+14:09:43.218 INFO  manager.WDListener - sendKys-->input
+14:09:43.228 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:43.498 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:09:43.498 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+14:09:43.511 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:09:43.727 INFO  tests.TestBase - Before method finished logout
+14:09:43.729 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:09:43.729 INFO  tests.TestBase - Test data-->User{email='sonya@gmail.com', password='Ss12345$'}
+14:09:43.775 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:43.996 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:43.996 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:44.005 INFO  manager.WDListener - Before click element-->input text = 
+14:09:44.225 INFO  manager.WDListener - After click element-->input text = 
+14:09:44.225 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:44.231 INFO  manager.WDListener - sendKys-->input
+14:09:44.235 INFO  manager.WDListener - sendKys-->input
+14:09:44.240 INFO  manager.WDListener - sendKys-->input
+14:09:44.248 INFO  manager.WDListener - Before click element-->input text = 
+14:09:44.474 INFO  manager.WDListener - After click element-->input text = 
+14:09:44.474 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:44.484 INFO  manager.WDListener - sendKys-->input
+14:09:44.491 INFO  manager.WDListener - sendKys-->input
+14:09:44.496 INFO  manager.WDListener - sendKys-->input
+14:09:44.506 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:44.776 INFO  manager.TestNGListener - start test-->loginSuccessModelDP
+14:09:44.777 INFO  tests.TestBase - Name of method--->loginUnregisteredUser
+14:09:44.792 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:09:45.009 INFO  tests.TestBase - Before method finished logout
+14:09:45.009 INFO  manager.TestNGListener - start test-->loginUnregisteredUser
+14:09:45.010 INFO  tests.TestBase - Test data --> email: 'maaa@gmail.com' & password: 'Maa123456$'
+14:09:45.023 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:45.236 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:45.236 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:45.246 INFO  manager.WDListener - Before click element-->input text = 
+14:09:45.467 INFO  manager.WDListener - After click element-->input text = 
+14:09:45.468 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:45.477 INFO  manager.WDListener - sendKys-->input
+14:09:45.481 INFO  manager.WDListener - sendKys-->input
+14:09:45.488 INFO  manager.WDListener - sendKys-->input
+14:09:45.489 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:09:45.497 INFO  manager.WDListener - Before click element-->input text = 
+14:09:45.721 INFO  manager.WDListener - After click element-->input text = 
+14:09:45.722 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:45.730 INFO  manager.WDListener - sendKys-->input
+14:09:45.736 INFO  manager.WDListener - sendKys-->input
+14:09:45.741 INFO  manager.WDListener - sendKys-->input
+14:09:45.751 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:46.019 INFO  manager.WDListener - We have a problem
+14:09:46.019 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6b649efa
+14:09:46.019 INFO  manager.WDListener - *****************
+14:09:46.019 INFO  manager.WDListener - Method name-->alert
+14:09:46.019 INFO  manager.WDListener - *****************
+14:09:46.019 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:09:46.020 INFO  manager.WDListener - *****************
+14:09:46.020 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1831 .png
+14:09:46.565 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+14:09:46.565 INFO  manager.TestNGListener - start test-->loginUnregisteredUser
+14:09:46.567 INFO  tests.TestBase - Name of method--->loginWrongEmail
+14:09:51.578 INFO  tests.TestBase - Before method finished logout
+14:09:51.580 INFO  manager.TestNGListener - start test-->loginWrongEmail
+14:09:51.580 INFO  tests.TestBase - Test data --> email: 'karinmc9mail.ru' & password: 'Rfhbyrf29$'
+14:09:51.604 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:51.834 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:51.834 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:51.849 INFO  manager.WDListener - Before click element-->input text = 
+14:09:52.081 INFO  manager.WDListener - After click element-->input text = 
+14:09:52.082 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:52.096 INFO  manager.WDListener - sendKys-->input
+14:09:52.101 INFO  manager.WDListener - sendKys-->input
+14:09:52.111 INFO  manager.WDListener - sendKys-->input
+14:09:52.111 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:09:52.120 INFO  manager.WDListener - Before click element-->input text = 
+14:09:52.345 INFO  manager.WDListener - After click element-->input text = 
+14:09:52.346 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:52.359 INFO  manager.WDListener - sendKys-->input
+14:09:52.363 INFO  manager.WDListener - sendKys-->input
+14:09:52.369 INFO  manager.WDListener - sendKys-->input
+14:09:52.385 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:52.613 INFO  manager.WDListener - We have a problem
+14:09:52.613 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@62b475e2
+14:09:52.613 INFO  manager.WDListener - *****************
+14:09:52.613 INFO  manager.WDListener - Method name-->alert
+14:09:52.613 INFO  manager.WDListener - *****************
+14:09:52.614 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:09:52.614 INFO  manager.WDListener - *****************
+14:09:52.614 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1546 .png
+14:09:53.148 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+14:09:53.149 INFO  manager.TestNGListener - start test-->loginWrongEmail
+14:09:53.150 INFO  tests.TestBase - Name of method--->loginWrongPassword
+14:09:58.158 INFO  tests.TestBase - Before method finished logout
+14:09:58.159 INFO  manager.TestNGListener - start test-->loginWrongPassword
+14:09:58.160 INFO  tests.TestBase - Test data --> email: 'karinmc9@mail.ru' & password: 'Rfhbyrf29'
+14:09:58.177 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:09:58.393 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:09:58.394 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:09:58.402 INFO  manager.WDListener - Before click element-->input text = 
+14:09:58.636 INFO  manager.WDListener - After click element-->input text = 
+14:09:58.636 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:09:58.649 INFO  manager.WDListener - sendKys-->input
+14:09:58.656 INFO  manager.WDListener - sendKys-->input
+14:09:58.663 INFO  manager.WDListener - sendKys-->input
+14:09:58.663 INFO  manager.HelperBase - Time in input with locator 'type(By.name("email")' 
+14:09:58.672 INFO  manager.WDListener - Before click element-->input text = 
+14:09:58.881 INFO  manager.WDListener - After click element-->input text = 
+14:09:58.882 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:09:58.890 INFO  manager.WDListener - sendKys-->input
+14:09:58.894 INFO  manager.WDListener - sendKys-->input
+14:09:58.899 INFO  manager.WDListener - sendKys-->input
+14:09:58.905 INFO  manager.WDListener - Before click element-->button text = Login
+14:09:59.123 INFO  manager.WDListener - We have a problem
+14:09:59.123 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@108e9837
+14:09:59.123 INFO  manager.WDListener - *****************
+14:09:59.123 INFO  manager.WDListener - Method name-->alert
+14:09:59.123 INFO  manager.WDListener - *****************
+14:09:59.123 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:09:59.123 INFO  manager.WDListener - *****************
+14:09:59.123 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1268 .png
+14:09:59.647 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+14:09:59.647 INFO  manager.TestNGListener - start test-->loginWrongPassword
+14:09:59.649 INFO  tests.TestBase - Name of method--->registrationExistsUser
+14:10:04.660 INFO  manager.TestNGListener - start test-->registrationExistsUser
+14:10:04.661 INFO  tests.TestBase - Tests run with data: --->User{email='mara@gmail.com', password='Mmar123456$'}
+14:10:04.689 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:10:04.914 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:10:04.915 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:10:04.930 INFO  manager.WDListener - Before click element-->input text = 
+14:10:05.155 INFO  manager.WDListener - After click element-->input text = 
+14:10:05.155 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:10:05.169 INFO  manager.WDListener - sendKys-->input
+14:10:05.174 INFO  manager.WDListener - sendKys-->input
+14:10:05.181 INFO  manager.WDListener - sendKys-->input
+14:10:05.189 INFO  manager.WDListener - Before click element-->input text = 
+14:10:05.410 INFO  manager.WDListener - After click element-->input text = 
+14:10:05.411 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:10:05.424 INFO  manager.WDListener - sendKys-->input
+14:10:05.429 INFO  manager.WDListener - sendKys-->input
+14:10:05.436 INFO  manager.WDListener - sendKys-->input
+14:10:05.444 INFO  manager.WDListener - Before click element-->button text = Registration
+14:10:05.670 INFO  manager.WDListener - We have a problem
+14:10:05.670 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@4017fe2c
+14:10:05.670 INFO  manager.WDListener - *****************
+14:10:05.670 INFO  manager.WDListener - Method name-->alert
+14:10:05.670 INFO  manager.WDListener - *****************
+14:10:05.670 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:05.671 INFO  manager.WDListener - *****************
+14:10:05.671 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1422 .png
+14:10:06.215 INFO  manager.TestNGListener - start test-->registrationExistsUser
+14:10:06.220 INFO  tests.TestBase - Name of method--->registrationSuccess
+14:10:11.233 INFO  manager.TestNGListener - start test-->registrationSuccess
+14:10:11.234 INFO  tests.TestBase - Tests run with data: --->User{email='don611@gmail.com', password='Ddon123456$'}
+14:10:11.255 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:10:11.479 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:10:11.480 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:10:11.480 INFO  tests.TestBase - openRegistrationForm invoked
+14:10:11.493 INFO  manager.WDListener - Before click element-->input text = 
+14:10:11.718 INFO  manager.WDListener - After click element-->input text = 
+14:10:11.718 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:10:11.725 INFO  manager.WDListener - sendKys-->input
+14:10:11.728 INFO  manager.WDListener - sendKys-->input
+14:10:11.735 INFO  manager.WDListener - sendKys-->input
+14:10:11.743 INFO  manager.WDListener - Before click element-->input text = 
+14:10:11.963 INFO  manager.WDListener - After click element-->input text = 
+14:10:11.964 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:10:11.976 INFO  manager.WDListener - sendKys-->input
+14:10:11.979 INFO  manager.WDListener - sendKys-->input
+14:10:11.984 INFO  manager.WDListener - sendKys-->input
+14:10:11.984 INFO  tests.TestBase - fillRegistrationForm invoked
+14:10:11.993 INFO  manager.WDListener - Before click element-->button text = Registration
+14:10:12.210 INFO  tests.TestBase - submitLogin invoked
+14:10:12.508 INFO  manager.TestNGListener - start test-->registrationSuccess
+14:10:12.509 INFO  tests.TestBase - Name of method--->registrationWrongEmail
+14:10:12.521 INFO  manager.WDListener - Before click element-->button text = Sign Out
+14:10:12.742 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+14:10:12.743 INFO  tests.TestBase - Tests run with data: --->User{email='dongmail.com', password='Ddon123456$'}
+14:10:12.761 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:10:12.976 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:10:12.977 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:10:12.985 INFO  manager.WDListener - Before click element-->input text = 
+14:10:13.195 INFO  manager.WDListener - After click element-->input text = 
+14:10:13.195 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:10:13.200 INFO  manager.WDListener - sendKys-->input
+14:10:13.203 INFO  manager.WDListener - sendKys-->input
+14:10:13.207 INFO  manager.WDListener - sendKys-->input
+14:10:13.214 INFO  manager.WDListener - Before click element-->input text = 
+14:10:13.428 INFO  manager.WDListener - After click element-->input text = 
+14:10:13.429 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:10:13.436 INFO  manager.WDListener - sendKys-->input
+14:10:13.440 INFO  manager.WDListener - sendKys-->input
+14:10:13.444 INFO  manager.WDListener - sendKys-->input
+14:10:13.453 INFO  manager.WDListener - Before click element-->button text = Registration
+14:10:13.673 INFO  manager.WDListener - We have a problem
+14:10:13.673 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@2db86a7c
+14:10:13.673 INFO  manager.WDListener - *****************
+14:10:13.673 INFO  manager.WDListener - Method name-->alert
+14:10:13.673 INFO  manager.WDListener - *****************
+14:10:13.673 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:13.673 INFO  manager.WDListener - *****************
+14:10:13.673 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1160 .png
+14:10:14.190 INFO  manager.WDListener - We have a problem
+14:10:14.191 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6d69a0d3
+14:10:14.191 INFO  manager.WDListener - *****************
+14:10:14.191 INFO  manager.WDListener - Method name-->alert
+14:10:14.191 INFO  manager.WDListener - *****************
+14:10:14.191 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:14.191 INFO  manager.WDListener - *****************
+14:10:14.191 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1109 .png
+14:10:14.705 INFO  manager.WDListener - We have a problem
+14:10:14.706 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@611d0763
+14:10:14.706 INFO  manager.WDListener - *****************
+14:10:14.706 INFO  manager.WDListener - Method name-->alert
+14:10:14.706 INFO  manager.WDListener - *****************
+14:10:14.706 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:14.706 INFO  manager.WDListener - *****************
+14:10:14.706 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1883 .png
+14:10:15.223 INFO  manager.WDListener - We have a problem
+14:10:15.224 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@48cd319d
+14:10:15.224 INFO  manager.WDListener - *****************
+14:10:15.224 INFO  manager.WDListener - Method name-->alert
+14:10:15.224 INFO  manager.WDListener - *****************
+14:10:15.224 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:15.224 INFO  manager.WDListener - *****************
+14:10:15.224 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1248 .png
+14:10:15.743 INFO  manager.WDListener - We have a problem
+14:10:15.744 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5968800d
+14:10:15.744 INFO  manager.WDListener - *****************
+14:10:15.744 INFO  manager.WDListener - Method name-->alert
+14:10:15.744 INFO  manager.WDListener - *****************
+14:10:15.744 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:15.744 INFO  manager.WDListener - *****************
+14:10:15.744 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1317 .png
+14:10:16.257 INFO  manager.WDListener - We have a problem
+14:10:16.257 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@752b69e3
+14:10:16.257 INFO  manager.WDListener - *****************
+14:10:16.257 INFO  manager.WDListener - Method name-->alert
+14:10:16.257 INFO  manager.WDListener - *****************
+14:10:16.257 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:16.257 INFO  manager.WDListener - *****************
+14:10:16.258 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1079 .png
+14:10:16.772 INFO  manager.WDListener - We have a problem
+14:10:16.772 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1bd8afc8
+14:10:16.772 INFO  manager.WDListener - *****************
+14:10:16.772 INFO  manager.WDListener - Method name-->alert
+14:10:16.772 INFO  manager.WDListener - *****************
+14:10:16.772 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:16.772 INFO  manager.WDListener - *****************
+14:10:16.772 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1897 .png
+14:10:17.289 INFO  manager.WDListener - We have a problem
+14:10:17.289 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@637c840d
+14:10:17.290 INFO  manager.WDListener - *****************
+14:10:17.290 INFO  manager.WDListener - Method name-->alert
+14:10:17.290 INFO  manager.WDListener - *****************
+14:10:17.290 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:17.290 INFO  manager.WDListener - *****************
+14:10:17.290 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1747 .png
+14:10:17.804 INFO  manager.WDListener - We have a problem
+14:10:17.804 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@640d604
+14:10:17.804 INFO  manager.WDListener - *****************
+14:10:17.804 INFO  manager.WDListener - Method name-->alert
+14:10:17.804 INFO  manager.WDListener - *****************
+14:10:17.804 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:17.805 INFO  manager.WDListener - *****************
+14:10:17.805 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1754 .png
+14:10:18.323 INFO  manager.WDListener - We have a problem
+14:10:18.323 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7e61e25c
+14:10:18.323 INFO  manager.WDListener - *****************
+14:10:18.324 INFO  manager.WDListener - Method name-->alert
+14:10:18.324 INFO  manager.WDListener - *****************
+14:10:18.324 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:18.324 INFO  manager.WDListener - *****************
+14:10:18.324 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1855 .png
+14:10:18.841 INFO  manager.WDListener - We have a problem
+14:10:18.841 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@382d71c7
+14:10:18.841 INFO  manager.WDListener - *****************
+14:10:18.841 INFO  manager.WDListener - Method name-->alert
+14:10:18.841 INFO  manager.WDListener - *****************
+14:10:18.842 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:18.842 INFO  manager.WDListener - *****************
+14:10:18.842 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1508 .png
+14:10:19.359 INFO  manager.WDListener - We have a problem
+14:10:19.359 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3b0d3a63
+14:10:19.359 INFO  manager.WDListener - *****************
+14:10:19.359 INFO  manager.WDListener - Method name-->alert
+14:10:19.359 INFO  manager.WDListener - *****************
+14:10:19.359 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:19.359 INFO  manager.WDListener - *****************
+14:10:19.359 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1461 .png
+14:10:19.890 INFO  manager.WDListener - We have a problem
+14:10:19.890 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5c8d58ed
+14:10:19.890 INFO  manager.WDListener - *****************
+14:10:19.890 INFO  manager.WDListener - Method name-->alert
+14:10:19.890 INFO  manager.WDListener - *****************
+14:10:19.890 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:19.890 INFO  manager.WDListener - *****************
+14:10:19.890 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1714 .png
+14:10:20.407 INFO  manager.WDListener - We have a problem
+14:10:20.407 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6380e9e9
+14:10:20.407 INFO  manager.WDListener - *****************
+14:10:20.407 INFO  manager.WDListener - Method name-->alert
+14:10:20.407 INFO  manager.WDListener - *****************
+14:10:20.407 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:20.407 INFO  manager.WDListener - *****************
+14:10:20.407 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1626 .png
+14:10:20.925 INFO  manager.WDListener - We have a problem
+14:10:20.925 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1788cb61
+14:10:20.925 INFO  manager.WDListener - *****************
+14:10:20.925 INFO  manager.WDListener - Method name-->alert
+14:10:20.925 INFO  manager.WDListener - *****************
+14:10:20.926 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:20.926 INFO  manager.WDListener - *****************
+14:10:20.926 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1419 .png
+14:10:21.445 INFO  manager.WDListener - We have a problem
+14:10:21.445 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@16cb9989
+14:10:21.445 INFO  manager.WDListener - *****************
+14:10:21.445 INFO  manager.WDListener - Method name-->alert
+14:10:21.446 INFO  manager.WDListener - *****************
+14:10:21.446 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:21.456 INFO  manager.WDListener - *****************
+14:10:21.456 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1017 .png
+14:10:21.973 INFO  manager.WDListener - We have a problem
+14:10:21.973 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@45037e16
+14:10:21.973 INFO  manager.WDListener - *****************
+14:10:21.973 INFO  manager.WDListener - Method name-->alert
+14:10:21.973 INFO  manager.WDListener - *****************
+14:10:21.973 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:21.973 INFO  manager.WDListener - *****************
+14:10:21.973 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1818 .png
+14:10:22.486 INFO  manager.WDListener - We have a problem
+14:10:22.487 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@14b4340c
+14:10:22.487 INFO  manager.WDListener - *****************
+14:10:22.487 INFO  manager.WDListener - Method name-->alert
+14:10:22.487 INFO  manager.WDListener - *****************
+14:10:22.487 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:22.487 INFO  manager.WDListener - *****************
+14:10:22.487 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1494 .png
+14:10:23.000 INFO  manager.WDListener - We have a problem
+14:10:23.001 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@33d28f0a
+14:10:23.001 INFO  manager.WDListener - *****************
+14:10:23.001 INFO  manager.WDListener - Method name-->alert
+14:10:23.001 INFO  manager.WDListener - *****************
+14:10:23.001 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:23.001 INFO  manager.WDListener - *****************
+14:10:23.001 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1214 .png
+14:10:23.518 INFO  manager.WDListener - We have a problem
+14:10:23.519 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@afde064
+14:10:23.519 INFO  manager.WDListener - *****************
+14:10:23.519 INFO  manager.WDListener - Method name-->alert
+14:10:23.519 INFO  manager.WDListener - *****************
+14:10:23.519 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:23.519 INFO  manager.WDListener - *****************
+14:10:23.519 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1874 .png
+14:10:24.037 INFO  manager.WDListener - We have a problem
+14:10:24.037 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@8641b7d
+14:10:24.037 INFO  manager.WDListener - *****************
+14:10:24.038 INFO  manager.WDListener - Method name-->alert
+14:10:24.038 INFO  manager.WDListener - *****************
+14:10:24.038 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:24.038 INFO  manager.WDListener - *****************
+14:10:24.038 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1557 .png
+14:10:24.043 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+14:10:24.044 INFO  tests.TestBase - Name of method--->registrationWrongPassword
+14:10:29.055 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+14:10:29.057 INFO  tests.TestBase - Tests run with data: --->User{email='don@gmail.com', password='Ddon123'}
+14:10:29.080 INFO  manager.WDListener - Before click element-->a text = LOGIN
+14:10:29.312 INFO  manager.WDListener - After click element-->a text = LOGIN
+14:10:29.313 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")'
+14:10:29.327 INFO  manager.WDListener - Before click element-->input text = 
+14:10:29.550 INFO  manager.WDListener - After click element-->input text = 
+14:10:29.551 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> name: email]
+14:10:29.564 INFO  manager.WDListener - sendKys-->input
+14:10:29.569 INFO  manager.WDListener - sendKys-->input
+14:10:29.575 INFO  manager.WDListener - sendKys-->input
+14:10:29.584 INFO  manager.WDListener - Before click element-->input text = 
+14:10:29.803 INFO  manager.WDListener - After click element-->input text = 
+14:10:29.803 INFO  manager.WDListener - clearElement[[FirefoxDriver: firefox on mac (4d32a787-7aef-4403-8f06-c3b02b3c49f5)] -> xpath: //input[last()]]
+14:10:29.818 INFO  manager.WDListener - sendKys-->input
+14:10:29.822 INFO  manager.WDListener - sendKys-->input
+14:10:29.829 INFO  manager.WDListener - sendKys-->input
+14:10:29.840 INFO  manager.WDListener - Before click element-->button text = Registration
+14:10:30.054 INFO  manager.WDListener - We have a problem
+14:10:30.054 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@33324c05
+14:10:30.054 INFO  manager.WDListener - *****************
+14:10:30.054 INFO  manager.WDListener - Method name-->alert
+14:10:30.054 INFO  manager.WDListener - *****************
+14:10:30.054 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:30.054 INFO  manager.WDListener - *****************
+14:10:30.054 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1874 .png
+14:10:30.572 INFO  manager.WDListener - We have a problem
+14:10:30.572 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1291aab5
+14:10:30.572 INFO  manager.WDListener - *****************
+14:10:30.572 INFO  manager.WDListener - Method name-->alert
+14:10:30.572 INFO  manager.WDListener - *****************
+14:10:30.573 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:30.573 INFO  manager.WDListener - *****************
+14:10:30.573 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1105 .png
+14:10:31.088 INFO  manager.WDListener - We have a problem
+14:10:31.089 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1ee40b5c
+14:10:31.089 INFO  manager.WDListener - *****************
+14:10:31.089 INFO  manager.WDListener - Method name-->alert
+14:10:31.089 INFO  manager.WDListener - *****************
+14:10:31.089 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:31.089 INFO  manager.WDListener - *****************
+14:10:31.089 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1892 .png
+14:10:31.603 INFO  manager.WDListener - We have a problem
+14:10:31.603 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6885ed19
+14:10:31.603 INFO  manager.WDListener - *****************
+14:10:31.603 INFO  manager.WDListener - Method name-->alert
+14:10:31.603 INFO  manager.WDListener - *****************
+14:10:31.604 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:31.604 INFO  manager.WDListener - *****************
+14:10:31.604 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1698 .png
+14:10:32.118 INFO  manager.WDListener - We have a problem
+14:10:32.118 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7b9e25bd
+14:10:32.118 INFO  manager.WDListener - *****************
+14:10:32.118 INFO  manager.WDListener - Method name-->alert
+14:10:32.118 INFO  manager.WDListener - *****************
+14:10:32.118 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:32.118 INFO  manager.WDListener - *****************
+14:10:32.118 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1398 .png
+14:10:32.636 INFO  manager.WDListener - We have a problem
+14:10:32.636 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@565d7d2f
+14:10:32.636 INFO  manager.WDListener - *****************
+14:10:32.636 INFO  manager.WDListener - Method name-->alert
+14:10:32.636 INFO  manager.WDListener - *****************
+14:10:32.636 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:32.636 INFO  manager.WDListener - *****************
+14:10:32.636 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1307 .png
+14:10:33.154 INFO  manager.WDListener - We have a problem
+14:10:33.154 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@477523ba
+14:10:33.154 INFO  manager.WDListener - *****************
+14:10:33.154 INFO  manager.WDListener - Method name-->alert
+14:10:33.154 INFO  manager.WDListener - *****************
+14:10:33.154 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:33.154 INFO  manager.WDListener - *****************
+14:10:33.154 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1048 .png
+14:10:33.672 INFO  manager.WDListener - We have a problem
+14:10:33.673 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1c84d80a
+14:10:33.673 INFO  manager.WDListener - *****************
+14:10:33.673 INFO  manager.WDListener - Method name-->alert
+14:10:33.673 INFO  manager.WDListener - *****************
+14:10:33.673 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:33.674 INFO  manager.WDListener - *****************
+14:10:33.674 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1110 .png
+14:10:34.191 INFO  manager.WDListener - We have a problem
+14:10:34.192 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@78d92eef
+14:10:34.192 INFO  manager.WDListener - *****************
+14:10:34.192 INFO  manager.WDListener - Method name-->alert
+14:10:34.192 INFO  manager.WDListener - *****************
+14:10:34.192 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:34.193 INFO  manager.WDListener - *****************
+14:10:34.193 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1444 .png
+14:10:34.706 INFO  manager.WDListener - We have a problem
+14:10:34.706 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@2c9fdb64
+14:10:34.706 INFO  manager.WDListener - *****************
+14:10:34.706 INFO  manager.WDListener - Method name-->alert
+14:10:34.706 INFO  manager.WDListener - *****************
+14:10:34.706 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:34.706 INFO  manager.WDListener - *****************
+14:10:34.706 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1150 .png
+14:10:35.228 INFO  manager.WDListener - We have a problem
+14:10:35.228 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5e193ef5
+14:10:35.228 INFO  manager.WDListener - *****************
+14:10:35.228 INFO  manager.WDListener - Method name-->alert
+14:10:35.228 INFO  manager.WDListener - *****************
+14:10:35.228 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:35.228 INFO  manager.WDListener - *****************
+14:10:35.228 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1806 .png
+14:10:35.741 INFO  manager.WDListener - We have a problem
+14:10:35.742 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@115c946b
+14:10:35.742 INFO  manager.WDListener - *****************
+14:10:35.742 INFO  manager.WDListener - Method name-->alert
+14:10:35.742 INFO  manager.WDListener - *****************
+14:10:35.742 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:35.742 INFO  manager.WDListener - *****************
+14:10:35.742 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1022 .png
+14:10:36.252 INFO  manager.WDListener - We have a problem
+14:10:36.253 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5122e4bf
+14:10:36.253 INFO  manager.WDListener - *****************
+14:10:36.253 INFO  manager.WDListener - Method name-->alert
+14:10:36.253 INFO  manager.WDListener - *****************
+14:10:36.253 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:36.253 INFO  manager.WDListener - *****************
+14:10:36.253 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1636 .png
+14:10:36.765 INFO  manager.WDListener - We have a problem
+14:10:36.765 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@2c8b8de0
+14:10:36.765 INFO  manager.WDListener - *****************
+14:10:36.765 INFO  manager.WDListener - Method name-->alert
+14:10:36.765 INFO  manager.WDListener - *****************
+14:10:36.766 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:36.766 INFO  manager.WDListener - *****************
+14:10:36.766 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1312 .png
+14:10:37.284 INFO  manager.WDListener - We have a problem
+14:10:37.285 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3f048c86
+14:10:37.285 INFO  manager.WDListener - *****************
+14:10:37.285 INFO  manager.WDListener - Method name-->alert
+14:10:37.285 INFO  manager.WDListener - *****************
+14:10:37.285 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:37.285 INFO  manager.WDListener - *****************
+14:10:37.285 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1163 .png
+14:10:37.802 INFO  manager.WDListener - We have a problem
+14:10:37.803 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7d484fcd
+14:10:37.803 INFO  manager.WDListener - *****************
+14:10:37.803 INFO  manager.WDListener - Method name-->alert
+14:10:37.803 INFO  manager.WDListener - *****************
+14:10:37.803 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:37.803 INFO  manager.WDListener - *****************
+14:10:37.805 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1636 .png
+14:10:38.314 INFO  manager.WDListener - We have a problem
+14:10:38.315 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@245cb8df
+14:10:38.315 INFO  manager.WDListener - *****************
+14:10:38.315 INFO  manager.WDListener - Method name-->alert
+14:10:38.315 INFO  manager.WDListener - *****************
+14:10:38.315 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:38.315 INFO  manager.WDListener - *****************
+14:10:38.315 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1233 .png
+14:10:38.830 INFO  manager.WDListener - We have a problem
+14:10:38.831 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@c9b5a99
+14:10:38.831 INFO  manager.WDListener - *****************
+14:10:38.831 INFO  manager.WDListener - Method name-->alert
+14:10:38.831 INFO  manager.WDListener - *****************
+14:10:38.831 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:38.831 INFO  manager.WDListener - *****************
+14:10:38.831 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1334 .png
+14:10:39.350 INFO  manager.WDListener - We have a problem
+14:10:39.350 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@935493d
+14:10:39.350 INFO  manager.WDListener - *****************
+14:10:39.350 INFO  manager.WDListener - Method name-->alert
+14:10:39.350 INFO  manager.WDListener - *****************
+14:10:39.350 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:39.351 INFO  manager.WDListener - *****************
+14:10:39.351 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1170 .png
+14:10:39.865 INFO  manager.WDListener - We have a problem
+14:10:39.866 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@54495935
+14:10:39.866 INFO  manager.WDListener - *****************
+14:10:39.866 INFO  manager.WDListener - Method name-->alert
+14:10:39.866 INFO  manager.WDListener - *****************
+14:10:39.866 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:39.866 INFO  manager.WDListener - *****************
+14:10:39.866 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1384 .png
+14:10:40.382 INFO  manager.WDListener - We have a problem
+14:10:40.382 INFO  manager.WDListener - Object targer-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@251a90ce
+14:10:40.382 INFO  manager.WDListener - *****************
+14:10:40.382 INFO  manager.WDListener - Method name-->alert
+14:10:40.382 INFO  manager.WDListener - *****************
+14:10:40.382 INFO  manager.WDListener - InvocationTargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3.1', java.version: '11.0.26'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4d32a787-7aef-4403-8f06-c3b02b3c49f5, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 24.3.0, moz:processID: 7139, moz:profile: /var/folders/_x/cttlr1nx3g3..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 4d32a787-7aef-4403-8f06-c3b02b3c49f5
+14:10:40.382 INFO  manager.WDListener - *****************
+14:10:40.382 INFO  manager.WDListener - Screen with error is-->/src/test/screenshots1897 .png
+14:10:40.383 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+14:10:40.385 INFO  manager.TestNGListener - start test-->Thu Mar 13 14:10:40 IST 2025
