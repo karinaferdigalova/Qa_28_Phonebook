@@ -1,0 +1,6 @@
+12:52:11.017 INFO  manager.TestNGListener - start test-->Tue Mar 18 12:52:11 IST 2025
+12:52:11.031 INFO  manager.TestNGListener - start test-->loginWrongEmail
+12:52:11.033 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+12:52:11.033 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+12:52:11.034 INFO  manager.TestNGListener - start test-->addContactSuccessReqFields
+12:52:11.034 INFO  manager.TestNGListener - start test-->Tue Mar 18 12:52:11 IST 2025

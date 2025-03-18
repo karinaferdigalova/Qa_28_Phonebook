@@ -1,0 +1,8 @@
+12:53:41.475 INFO  manager.TestNGListener - start test-->Tue Mar 18 12:53:41 IST 2025
+12:53:41.484 INFO  manager.TestNGListener - start test-->loginWrongEmail
+12:53:41.485 INFO  tests.TestBase - Test data --> email: 'karinmc9mail.ru' & password: 'Rfhbyrf29$'
+12:53:41.487 INFO  manager.TestNGListener - start test-->loginWrongEmail
+12:53:41.489 INFO  manager.TestNGListener - start test-->registrationWrongEmail
+12:53:41.490 INFO  manager.TestNGListener - start test-->registrationWrongPassword
+12:53:41.490 INFO  manager.TestNGListener - start test-->addContactSuccessReqFields
+12:53:41.491 INFO  manager.TestNGListener - start test-->Tue Mar 18 12:53:41 IST 2025
